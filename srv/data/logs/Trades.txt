@@ -1,0 +1,171 @@
+World: 0 -  Kakashi Ph Trocou: [11666([N]Madara Boots):1] por [10493(Chidori Katana):1] com o Player Obito Ph. Em 05 February 2023 - 18:01:22.
+
+----------------------------------------------------------
+World: 0 -  Bruniin Mobreck Trocou: [2485([N]Naruto Gennin Shirt):1] por [14356([N]Uchiha Tunic):1] com o Player Doug Mobreck. Em 05 February 2023 - 18:20:18.
+
+----------------------------------------------------------
+World: 0 -  Vesgo Trocou: [2152(Yen):30] por [7845(document of the officer):1] com o Player Sa Bri Na. Em 05 February 2023 - 19:16:39.
+
+----------------------------------------------------------
+World: 0 -  Obito Ph Trocou: [10448([N]Madara Armor):1] por [12441([N]Yondaime Tunic):1] com o Player Kakashi Ph. Em 05 February 2023 - 19:18:41.
+
+----------------------------------------------------------
+World: 0 -  Wandinha Trocou: [2596(stamped parcel):1 + 10496([N]Nidaime ForeHead) : 1 + 7463([N]Nidaime Armor) : 1 + 10512(Bashousen) : 1 + 17630([N]Nidaime Pants) : 1 + 12443([N]Nidaime Boots) : 1] por [10712([N]Soldier Pill):1] com o Player Doug Mobreck. Em 05 February 2023 - 19:20:57.
+
+----------------------------------------------------------
+World: 0 -  Laminas Afiadas Trocou: [12302([-]Shinobi Pants):1] por [2596(stamped parcel):1 + 14344([N]Dragon Boots) : 1 + 14341([N]Dragon ForeHead) : 1 + 14342([N]Dragon Armor) : 1 + 14343([N]Dragon Pants) : 1] com o Player Sa Bri Na. Em 05 February 2023 - 20:05:48.
+
+----------------------------------------------------------
+World: 0 -  Sa Bri Na Trocou: [1999(Konoha Backpack):1 + 11133(Obito Vocation) : 1] por [10540(Small Chakra Potion):1] com o Player Megabaile Do Areias. Em 05 February 2023 - 20:17:54.
+
+----------------------------------------------------------
+World: 0 -  Megabaile Do Areias Trocou: [10540(Small Chakra Potion):1] por [1999(Konoha Backpack):1 + 17631([N]Madara Pants) : 1 + 10448([N]Madara Armor) : 1 + 11666([N]Madara Boots) : 1 + 17496(Nunoboko) : 1 + 16479(Kage Shuriken Shield) : 1 + 16475([S]Soldier Pill) : 17 + 16474([G]Soldier Pill) : 48 + 16476([D]Soldier Pill) : 19] com o Player Sa Bri Na. Em 05 February 2023 - 20:20:38.
+
+----------------------------------------------------------
+World: 0 -  Baile De Favela Trocou: [10411([N]Gennin Boots):1] por [1999(Konoha Backpack):1 + 11133(Obito Vocation) : 1 + 17631([N]Madara Pants) : 1 + 10448([N]Madara Armor) : 1 + 11666([N]Madara Boots) : 1 + 17496(Nunoboko) : 1 + 16479(Kage Shuriken Shield) : 1 + 16475([S]Soldier Pill) : 17 + 16474([G]Soldier Pill) : 48 + 16476([D]Soldier Pill) : 19] com o Player Megabaile Do Areias. Em 05 February 2023 - 20:26:33.
+
+----------------------------------------------------------
+World: 0 -  Guy Trocou: [11041([N]Tobi Mask):1] por [13592([R]Tobi Mask):1] com o Player Awsuer. Em 05 February 2023 - 21:52:20.
+
+----------------------------------------------------------
+World: 0 -  Guy Trocou: [13592([R]Tobi Mask):1] por [13593([E]Tobi Mask):1] com o Player Mifune. Em 05 February 2023 - 21:53:50.
+
+----------------------------------------------------------
+World: 0 -  Yoimiya Trocou: [10378(Chakra Blade):1] por [10337(Shibuki):1] com o Player Blindao. Em 05 February 2023 - 23:02:07.
+
+----------------------------------------------------------
+World: 0 -  Ferreirinha Abusador Trocou: [10540(Small Chakra Potion):50] por [2596(stamped parcel):1 + 7430(Kage Fire Shuriken) : 1 + 18149(Ryo) : 43 + 11105(Akatsuki shield) : 1 + 15770(Necklace Of Uchiha) : -nan + 10378(Chakra Blade) : 1 + 11198(Red Ring) : 1 + 10496([N]Nidaime ForeHead) : 1 + 7463([N]Nidaime Armor) : 1 + 17630([N]Nidaime Pants) : 1 + 11666([N]Madara Boots) : 1] com o Player Ferreirinha. Em 05 February 2023 - 23:27:06.
+
+----------------------------------------------------------
+World: 0 -  Zhongli Trocou: [11041([N]Tobi Mask):1] por [12328([N]Akatsuki Hat):1] com o Player Tobi. Em 06 February 2023 - 00:10:17.
+
+----------------------------------------------------------
+World: 0 -  Blindao Trocou: [7342(Fur Backpack):1 + 10448([N]Madara Armor) : 1] por [12295(Elite Kunai):1] com o Player Tobi. Em 06 February 2023 - 00:11:34.
+
+----------------------------------------------------------
+World: 0 -  Zhongli Trocou: [18149(Ryo):3] por [2671(ham):10] com o Player Blindao. Em 06 February 2023 - 00:15:04.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [2152(Yen):100] por [18149(Ryo):3] com o Player Zhongli. Em 06 February 2023 - 00:15:39.
+
+----------------------------------------------------------
+World: 0 -  Osd Xisde Trocou: [17455(Green Backpack):1 + 11105(Akatsuki shield) : 1 + 15792(Akatsuki Ring) : 1 + 11106(Uzumaki Token) : 1 + 15775([N]Yondaime Boots) : 1 + 17631([N]Madara Pants) : 1 + 10448([N]Madara Armor) : 1 + 13595([R]Hokage Hat) : 1] por [12295(Elite Kunai):1] com o Player Osd Abusador. Em 06 February 2023 - 00:19:43.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [18321([N]Yondaime Pants):1] por [12292(Shuriken Shield):1] com o Player Boss Ta Vindo. Em 06 February 2023 - 02:06:56.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [11678([N]Yonbi Armor):1] por [12296(Gennin Glover):1] com o Player Boss Ta Vindo. Em 06 February 2023 - 02:07:11.
+
+----------------------------------------------------------
+World: 0 -  Obito Ph Trocou: [11666([N]Madara Boots):1] por [14326([N]Uchiha Boots):1] com o Player Kakashi Ph. Em 06 February 2023 - 15:13:53.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [11041([N]Tobi Mask):1] por [2152(Yen):37] com o Player Boss Ta Vindo. Em 06 February 2023 - 15:38:04.
+
+----------------------------------------------------------
+World: 0 -  Boss Ta Vindo Trocou: [7423([N]Naruto Pants):1] por [12441([N]Yondaime Tunic):1] com o Player Tobi. Em 06 February 2023 - 15:38:18.
+
+----------------------------------------------------------
+World: 0 -  Boss Ta Vindo Trocou: [7423([N]Naruto Pants):1] por [12441([N]Yondaime Tunic):1] com o Player Tobi. Em 06 February 2023 - 15:38:42.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [12441([N]Yondaime Tunic):1] por [7423([N]Naruto Pants):1] com o Player Boss Ta Vindo. Em 06 February 2023 - 15:39:17.
+
+----------------------------------------------------------
+World: 0 -  Mayconha Trocou: [11041([N]Tobi Mask):1] por [2148(Coin):100] com o Player Aurora. Em 06 February 2023 - 20:22:00.
+
+----------------------------------------------------------
+World: 0 -  Guilherme Trocou: [14341([N]Dragon ForeHead):1] por [11041([N]Tobi Mask):1] com o Player Aurora. Em 06 February 2023 - 20:28:54.
+
+----------------------------------------------------------
+World: 0 -  Guilherme Trocou: [14342([N]Dragon Armor):1] por [10448([N]Madara Armor):1] com o Player Aurora. Em 06 February 2023 - 20:29:12.
+
+----------------------------------------------------------
+World: 0 -  Guilherme Trocou: [14326([N]Uchiha Boots):1] por [11666([N]Madara Boots):1] com o Player Aurora. Em 06 February 2023 - 20:29:26.
+
+----------------------------------------------------------
+World: 0 -  Onlyfans Trocou: [10448([N]Madara Armor):1] por [2320(skull of Ratha):1] com o Player Babaca. Em 06 February 2023 - 20:39:50.
+
+----------------------------------------------------------
+World: 0 -  Onlyfans Trocou: [17631([N]Madara Pants):1] por [2320(skull of Ratha):11] com o Player Babaca. Em 06 February 2023 - 20:40:01.
+
+----------------------------------------------------------
+World: 0 -  Hatake Mobreck Trocou: [2596(stamped parcel):1] por [2596(stamped parcel):1 + 14342([N]Dragon Armor) : 1 + 14344([N]Dragon Boots) : 1 + 14343([N]Dragon Pants) : 1 + 14341([N]Dragon ForeHead) : 1] com o Player Diego Mobreck. Em 06 February 2023 - 21:10:41.
+
+----------------------------------------------------------
+World: 0 -  Yoimiya Trocou: [11041([N]Tobi Mask):1] por [12296(Gennin Glover):1] com o Player Bosstavindo. Em 06 February 2023 - 21:14:34.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [15775([N]Yondaime Boots):1] por [12295(Elite Kunai):1] com o Player Bosstavindo. Em 06 February 2023 - 22:15:10.
+
+----------------------------------------------------------
+World: 0 -  Ferreirinha Farmante Trocou: [1999(Konoha Backpack):1 + 11666([N]Madara Boots) : 1 + 15792(Akatsuki Ring) : 1 + 17630([N]Nidaime Pants) : 1 + 11105(Akatsuki shield) : 1 + 10496([N]Nidaime ForeHead) : 1 + 7463([N]Nidaime Armor) : 1 + 15487(Nara Necklace) : 1 + 11682(Green Ring) : 1 + 2148(Coin) : 90 + 2152(Yen) : 70 + 17452(Orange Backpack) : 1 + 15773(Desert Necklace) : -nan + 15749([R]Red Wind Pants) : 1] por [5943(Heart):1] com o Player Ferreirinha Abusador. Em 06 February 2023 - 22:16:32.
+
+----------------------------------------------------------
+World: 0 -  Blindao Trocou: [12441([N]Yondaime Tunic):1] por [12313([N]Akatsuki Boots):1] com o Player Bosstavindo. Em 06 February 2023 - 22:16:45.
+
+----------------------------------------------------------
+World: 0 -  Metalica Trocou: [18321([N]Yondaime Pants):1] por [2479([N]Straw Hat Campones):1] com o Player Bosstavindo. Em 06 February 2023 - 22:25:28.
+
+----------------------------------------------------------
+World: 0 -  Osd Xisde Trocou: [7342(Fur Backpack):1 + 14351([N]Shodaime Boots) : 1 + 10415([N]Shodaime Pants) : 1 + 8854([N]Shodaime Armor) : 1 + 11105(Akatsuki shield) : 1 + 11669(Scarf Of Asuma) : 1] por [2545(Shuriken):100] com o Player Osd Chuta Leve. Em 06 February 2023 - 22:50:49.
+
+----------------------------------------------------------
+World: 0 -  Ferreira Trocou: [11046(Florest Backpack):1 + 17454(Diamond Backpack) : 1 + 15482(Demon Slayer) : 1 + 2160(Jp Iene) : 40 + 18149(Ryo) : 12 + 10364(Great Health Potion) : 96 + 7430(Kage Fire Shuriken) : 1 + 16473([T]Soldier Pill) : 79 + 15792(Akatsuki Ring) : 1 + 14356([N]Uchiha Tunic) : 1 + 12442([N]Chakra Boots) : 1 + 6500(Renegade Essence) : 38 + 11100(Chakra Kurama Shield) : 1 + 2100(god flowers) : 1 + 2100(god flowers) : 1 + 2100(god flowers) : 1 + 1848(wall mirror) : 1 + 2577(green vase) : 1 + 16644() : -nan + 17438(Wings of Fire) : 48 + 17438(Wings of Fire) : 100 + 17438(Wings of Fire) : 100 + 17438(Wings of Fire) : 100 + 1999(Konoha Backpack) : 1 + 16473([T]Soldier Pill) : 2 + 10712([N]Soldier Pill) : 35 + 10712([N]Soldier Pill) : 6 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 10712([N]Soldier Pill) : 100 + 16475([S]Soldier Pill) : 100 + 16475([S]Soldier Pill) : 100 + 16475([S]Soldier Pill) : 100 + 16475([S]Soldier Pill) : 97 + 1988(Iwa backpack) : 1 + 13893(Gold Bar) : 7 + 13893(Gold Bar) : 100 + 18149(Ryo) : 100 + 10204() : -nan + 10203(Red Orb) : 1 + 10201(Blue Orb) : 1 + 10199(Black Orb) : 1 + 12385(blue piece of cloth) : 41 + 17428(Blue Leaf) : 4 + 2244(leaves) : 1 + 1999(Konoha Backpack) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 5943(Heart) : 1 + 10510(Hiraishin Kunai) : 1 + 11106(Uzumaki Token) : 1 + 11057(Yata No Kagami) : 1 + 17666([R]Shodaime Boots) : 1 + 16472(Kote) : 1 + 10415([N]Shodaime Pants) : 1 + 11041([N]Tobi Mask) : 1 + 17439(Rikudou Sennin Necklace) : 1 + 13557([E]Yondaime Tunic) : 1 + 2152(Yen) : 80 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 17455(Green Backpack) : 1 + 14259(Demonic Chakra Potion) : 44 + 17456(Red Backpack) : 1 + 10364(Great Health Potion) : 49 + 1988(Iwa backpack) : 1 + 10365(Great Chakra Potion) : 51 + 10541(Small Health Potion) : 21 + 10541(Small Health Potion) : 100 + 10541(Small Health Potion) : 100 + 1988(Iwa backpack) : 1 + 1999(Konoha Backpack) : 1 + 2596(stamped parcel) : 1 + 10540(Small Chakra Potion) : 50 + 10541(Small Health Potion) : 42 + 10365(Great Chakra Potion) : 100 + 10541(Small Health Potion) : 100 + 10365(Great Chakra Potion) : 80 + 10365(Great Chakra Potion) : 100] por [2152(Yen):60] com o Player Ferreira Old. Em 13 February 2023 - 15:19:51.
+
+----------------------------------------------------------
+World: 0 -  Fodeleza Trocou: [7430(Kage Fire Shuriken):1] por [2545(Shuriken):79] com o Player Baby Gengar. Em 13 February 2023 - 17:14:56.
+
+----------------------------------------------------------
+World: 0 -  Baby Gengar Trocou: [7430(Kage Fire Shuriken):1] por [5943(Heart):1] com o Player Fodeleza. Em 13 February 2023 - 17:32:16.
+
+----------------------------------------------------------
+World: 0 -  Luizinha Amarela Trocou: [7430(Kage Fire Shuriken):1] por [12296(Gennin Glover):1] com o Player Baby Gengar. Em 13 February 2023 - 19:51:26.
+
+----------------------------------------------------------
+World: 0 -  Baby Gengar Trocou: [7430(Kage Fire Shuriken):1] por [12296(Gennin Glover):1] com o Player Luizinha Amarela. Em 13 February 2023 - 19:53:24.
+
+----------------------------------------------------------
+World: 0 -  Fodeleza Trocou: [16472(Kote):1] por [15792(Akatsuki Ring):1] com o Player Odin. Em 15 February 2023 - 03:56:35.
+
+----------------------------------------------------------
+World: 0 -  Osd Abusador Trocou: [13595([R]Hokage Hat):1] por [11041([N]Tobi Mask):1] com o Player Osd Xisde. Em 15 February 2023 - 13:48:40.
+
+----------------------------------------------------------
+World: 0 -  Osd Abusador Trocou: [1999(Konoha Backpack):1 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 1999(Konoha Backpack) : 1 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100] por [10712([N]Soldier Pill):1] com o Player Osd Xisde. Em 15 February 2023 - 13:53:43.
+
+----------------------------------------------------------
+World: 0 -  Divine Trocou: [17452(Orange Backpack):1 + 10364(Great Health Potion) : 91 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10364(Great Health Potion) : 100 + 10365(Great Chakra Potion) : 100 + 10365(Great Chakra Potion) : 100] por [5943(Heart):1] com o Player Heisemberg. Em 15 February 2023 - 17:10:09.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [7845(document of the officer):1] por [2479([N]Straw Hat Campones):1] com o Player Kamon Motherfuck. Em 15 February 2023 - 21:07:52.
+
+----------------------------------------------------------
+World: 0 -  Tobi Trocou: [7845(document of the officer):1] por [2479([N]Straw Hat Campones):1] com o Player Kamon Motherfuck. Em 15 February 2023 - 21:09:15.
+
+----------------------------------------------------------
+World: 0 -  Osd Xisde Trocou: [10512(Bashousen):1] por [10378(Chakra Blade):1] com o Player Osd Abusador. Em 16 February 2023 - 02:24:30.
+
+----------------------------------------------------------
+World: 0 -  Unlucky Boys Trocou: [12284(Taijutsu Chakra Glover):1] por [18149(Ryo):10] com o Player Misty. Em 16 February 2023 - 03:49:20.
+
+----------------------------------------------------------
+World: 0 -  Baby Gengar Trocou: [12295(Elite Kunai):1] por [18149(Ryo):10] com o Player Misty. Em 16 February 2023 - 03:51:49.
+
+----------------------------------------------------------
+World: 0 -  Misty Trocou: [18149(Ryo):5] por [2545(Shuriken):1] com o Player Pierrot. Em 16 February 2023 - 03:53:36.
+
+----------------------------------------------------------
+World: 0 -  Subzero Trocou: [1999(Konoha Backpack):1 + 12295(Elite Kunai) : 1 + 2148(Coin) : 50 + 2152(Gold coin) : 97 + 2152(Gold coin) : 100 + 2160(Jp Iene) : 18 + 10541(Small Health Potion) : 50 + 10540(Small Chakra Potion) : 50 + 12296(Gennin Glover) : 1] por [2545(Shuriken):100] com o Player Apocaliipse. Em 09 April 2023 - 23:38:58.
+
+----------------------------------------------------------
+World: 0 -  Demonic Trocou: [2545(Shuriken):100] por [2160(Jp Iene):3] com o Player Zeus. Em 10 April 2023 - 00:17:16.
+
+----------------------------------------------------------
+World: 0 -  Rensuke Trocou: [15490(Skull Blue Necklace):-nan] por [2138(Yin Yang Necklace):-nan] com o Player Percy. Em 10 April 2023 - 17:53:44.
+
+----------------------------------------------------------
+World: 0 -  Cartel Salsicha Trocou: [1999(Konoha Backpack):1 + 14356([N]Uchiha Tunic) : 1 + 14326([N]Uchiha Boots) : 1 + 14328([N]Uchiha Pants) : 1 + 14327([N]Uchiha ForeHead) : 1] por [2138(Yin Yang Necklace):-nan] com o Player Cartel Jabiroca. Em 10 April 2023 - 22:16:33.
+
+----------------------------------------------------------

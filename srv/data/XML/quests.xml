@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+<quest name="Saga System" startstorageid="40000" startstoragevalue="-1">
+
+<mission name="0 - Início de uma viagem" storageid="40100" startvalue="0" endvalue="2">
+			<missionstate id="1" description="Fale com Iruka Sensei na Shinobi Academy para ajudá-lo em seu caminho ninja"/>
+			<missionstate id="2" description="Finalizado!"/>
+</mission>
+
+<mission name="1 - A traitor in konoha" storageid="40101" startvalue="1" endvalue="6">
+			<missionstate id="1" description="1: Mizuki espera por você em frente ao prédio do Hokage, não demore!"/>
+			<missionstate id="2" description="2: Entre no prédio do Hokage e procure a sala dela, pegue o pergaminho proibido;"/>
+			<missionstate id="3" description="3: Fuja para a floresta pela porta sul de Konoha;"/>
+			<missionstate id="4" description="4: Converse com Mizuki e derrote-o;"/>
+			<missionstate id="5" description="5: Converse com Iruka Sensei, seu caminho para se tornar um Genin está perto."/>
+			<missionstate id="6" description="Finalizado!"/>
+</mission>
+
+<mission name="2 - Treinando com Kakashi" storageid="40102" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Kakashi está te esperando na porta sul de Konoha para começar o seu treinamento, não se atrase!!" />
+			<missionstate id="2" description="2: Fuja da visão de Kakashi, se esconda atrás de arbustos." />
+			<missionstate id="3" description="3: Prepare-se para emboscar o Kakashi, esconda-se atrás de uma árvore." />
+			<missionstate id="4" description="4: Derrote Kakashi." />
+			<missionstate id="5" description="Finalizado!"/>
+		</mission>
+
+<mission name="3 - O ninja da névoa escondida" storageid="40103" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Fale com o III Hokage na parte superior do prédio do Hokage;"/>
+			<missionstate id="2" description="2: Encontre e fale com Tazuna (construtor), ele está esperando por você na ponte que leva a Kirigakure No Sato;"/>
+			<missionstate id="3" description="3: Derrote Haku, você o encontrará seguindo o caminho pela ponte;"/>
+			<missionstate id="4" description="4: Derrote Zabuza."/>
+			<missionstate id="5" description="Finalizado!"/>
+		</mission>
+
+<mission name="4 - Exame Chunin" storageid="40104" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Converse com Ibiki Morino na Academia Shinoi, ele irá te ajudar no exame Chunin;"/>
+			<missionstate id="2" description="2: Converse com Anko na entrada da área do exame Chunin;"/>
+			<missionstate id="3" description="3: Atravesse a floresta da morte;"/>
+			<missionstate id="4" description="4: Lute contra Orochimaru;"/>
+			<missionstate id="5" description="5: Derrote as equipes e colete os 2 pergaminhos (sol e lua);"/>
+			<missionstate id="6" description="6: Encontre o examinador na área do exame Chunin, prepare-se para a eliminação;"/>
+			<missionstate id="7" description="7: Derrote todos os oponentes;"/>
+			<missionstate id="8" description="8: Entregue o certificado ao Terceiro Hokage."/>
+			<missionstate id="9" description="Finalizado!"/>
+		</mission>
+
+<mission name="5 - Gaara é uma ameaça" storageid="40105" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Converse com Kakashi, ele está esperando por você na porta sul de Konoha;"/>
+			<missionstate id="2" description="2: Encontre e Derrote Temari, eles foram avistados seguindo um caminho ao sul da estrada que leva a floresta sul;"/>
+			<missionstate id="3" description="3: Encontre e Derrote Kankuro;"/>
+			<missionstate id="4" description="4: Encontre e Derrote Gaara, foi avistado na floresta sul."/>
+			<missionstate id="5" description="Finalizado!"/>
+		</mission>
+
+<mission name="6 - Lendarios Sannins" storageid="40106" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Converse com Jiraya, que está nas proximidades do DP de Konoha;"/>
+			<missionstate id="2" description="2: Tsunade está fora de Konoha, procure por ela e a ajude com o que ela precisar;"/>
+			<missionstate id="3" description="3: Ajudar Tsunade a derrotar Kabuto;"/>
+			<missionstate id="4" description="4: Ajudar Tsunade a derrotar Orochimaru."/>
+			<missionstate id="5" description="Finalizado!"/>
+		</mission>
+
+<mission name="7 - Batalha contra Sasuke" storageid="40107" startvalue="1" endvalue="3">
+			<missionstate id="1" description="1: Converse com Sasuke no Hospital de Konoha;"/>
+			<missionstate id="2" description="2: derrote Sasuke."/>
+			<missionstate id="3" description="Finalizado!"/>
+		</mission>		
+
+<mission name="8 - Resgate de Sasuke" storageid="40108" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Converse com Kakashi, ele está esperando por você para partir em uma missão na frente da Porta Sul de Konoha"/>
+			<missionstate id="2" description="2: Converse com Shikamaru para ajudá-lo nesta missão"/>
+			<missionstate id="3" description="3: Siga o caminho de Konoha para a floresta sul e encontre e derrote Jiroubou;"/>
+			<missionstate id="4" description="4: Encontre e derrote Kidomaru;"/>
+			<missionstate id="5" description="5: Encontre e derrote Sakon;"/>
+			<missionstate id="6" description="6: Encontre e derrote Tayuya;"/>
+			<missionstate id="7" description="7: Encontre e derrote Kimimaro;"/>
+			<missionstate id="8" description="8: Prosseguir para a cascata no vale no final, lá você encontrará Sasuke, esteja preparado para a batalha."/>
+			<missionstate id="9" description="Finalizado!"/>
+		</mission>
+
+<mission name="9 - resgate de gaara" storageid="40109" startvalue="1" endvalue="7">
+			<missionstate id="1" description="1: Converse com Tsunade no edifício Hokage, uma missão está esperando por você;"/>
+			<missionstate id="2" description="2: Converse com a Avó Chiyo, ela está na frente do edifício Kazekage em SunaGakure No Sato;"/>
+			<missionstate id="3" description="3: Encontre e derrote Sasori;"/>
+			<missionstate id="4" description="4: Encontre e derrote Deidara;"/>
+			<missionstate id="5" description="5: Converse com a avó Chiyo;"/>
+			<missionstate id="6" description="6: Ninjutsu de Cura: Reviva Gaara, pressione o corpo para transferir chakra para ele"/>
+			<missionstate id="7" description="Finalizado!"/>
+		</mission>
+
+<mission name="10 - Orochimaru's new hideout" storageid="40110" startvalue="1" endvalue="8">
+			<missionstate id="1" description="1: Encontre Sai, teste sua força lutando contra ele;"/>
+			<missionstate id="2" description="2: Converse com Yamato, que está perto da guarnição anbu de Konoha"/>
+			<missionstate id="3" description="3: Vá para a ponte Tenchi para encontrar o espião localizado na ilha perdida após SunaGakure no Sato"/>
+			<missionstate id="4" description="4: Converse com Kabuto Yakushi"/>
+			<missionstate id="5" description="5: Derrote Orochimaru"/>
+			<missionstate id="6" description="6: Encontre o esconderijo de Orochimaru"/>
+			<missionstate id="7" description="7: Encontre e derrote Sasuke"/>
+			<missionstate id="8" description="Finalizado!"/>
+		</mission>
+
+<mission name="11 - Akatsuki foi encontrado" storageid="40111" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Conversar com Yamato"/>
+			<missionstate id="2" description="2: Derrote Hidan"/>
+			<missionstate id="3" description="3: Derrote Kakuzu"/>
+			<missionstate id="4" description="Finalizado!"/>
+		</mission>			
+
+<mission name="12 - A ascensão do hebi" storageid="40112" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Conversar com Orochimaru"/>
+			<missionstate id="2" description="2: Derrote 1000 Ninjas"/>
+			<missionstate id="3" description="3: Derrote Orochimaru"/>
+			<missionstate id="4" description="Finalizado!"/>
+		</mission>		
+		
+<mission name="13 - Uchiha Ties" storageid="40113" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Siga o caminho para a antiga base Uchiha"/>
+			<missionstate id="2" description="2: Derrote Deidara"/>
+			<missionstate id="3" description="3: Derrote Itachi"/>
+			<missionstate id="4" description="Finalizado!"/>
+		</mission>
+		
+<mission name="14 - O anfitrião de 8 caudas" storageid="40114" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Procure por Tobi, ele está escondido em South Forest"/>
+			<missionstate id="2" description="2: Vá para KumoGakure e capture o 8 Tails"/>
+			<missionstate id="3" description="3: Derrote Hachibi"/>
+			<missionstate id="4" description="4: Derrote Hachibi"/>
+			<missionstate id="5" description="Finalizado!"/>
+		</mission>		
+	
+<mission name="15 - Destruição de Konoha" storageid="40115" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Converse com Tsunade no edifício Hokage"/>
+			<missionstate id="2" description="2: Conversar com Fukasaku"/>
+			<missionstate id="3" description="3: Treine nas estátuas de sapo"/>
+			<missionstate id="4" description="4: Conversar com Fukasaku"/>
+			<missionstate id="5" description="5: Derrote o Gamabunta"/>
+			<missionstate id="6" description="6: Conversar com Fukasaku"/>
+			<missionstate id="7" description="7: A dor destruiu konoha, derrote-o"/>
+			<missionstate id="8" description="8: Conversar com Nagato"/>
+			<missionstate id="9" description="Finalizado!"/>
+		</mission>
+	
+</quest>
+
+</quests>

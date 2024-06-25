@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wings>
+<!-- <wing id="1" clientid="2118" name="Widow Queen" speed="200" /> -->
+<wing id="1" clientid="2119" name="Angel's wings" speed="200" />
+<wing id="2" clientid="2120" name="Fallen angel wings" speed="200" />
+</wings>

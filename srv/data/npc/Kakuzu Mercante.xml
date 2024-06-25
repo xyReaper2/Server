@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kakuzu [Mercante]" script="data/npc/scripts/market.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="688"/>
+	  <parameters>
+    <parameter key="message_greet" value="Ola |PLAYERNAME|. Tenho um mercado bem interessante deseja anunciar algo? {Market} !!" />
+  </parameters>
+</npc>

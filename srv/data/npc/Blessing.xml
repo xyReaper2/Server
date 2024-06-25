@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Blessing" script="data/npc/scripts/bless.lua" walkinterval="0" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="1008"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Olá, |PLAYERNAME|! eu posso lhe vender {todas} as blessings."/>
+	</parameters>
+</npc>

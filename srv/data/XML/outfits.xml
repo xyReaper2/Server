@@ -1,0 +1,1935 @@
+<?xml version="1.0"?>
+<outfits>
+
+
+<!-- naruto -->
+<outfit id="1" voc="1" lvl="1">
+<list gender="0-3" lookType="266" name="Saga 1"/>
+</outfit>
+<outfit id="2" voc="1" lvl="25">
+<list gender="0-3" lookType="267" name="Saga 2"/>
+</outfit>
+<outfit id="3" voc="1" lvl="50">
+<list gender="0-3" lookType="268" name="Saga 3"/>
+</outfit>
+<outfit id="4" voc="1" lvl="75">
+<list gender="0-3" lookType="269" name="Saga 4"/>
+</outfit>
+<outfit id="5" voc="1" lvl="100">
+<list gender="0-3" lookType="270" name="Saga 5"/>
+</outfit>
+<outfit id="6" voc="1" lvl="125">
+<list gender="0-3" lookType="271" name="Saga 6"/>
+</outfit>
+<outfit id="7" voc="1" lvl="150">
+<list gender="0-3" lookType="272" name="Saga 7"/>
+</outfit>
+<outfit id="8" voc="1" lvl="175">
+<list gender="0-3" lookType="273" name="Saga 8"/>
+</outfit>
+<outfit id="9" voc="1" lvl="200">
+<list gender="0-3" lookType="277" name="Saga 9"/>
+</outfit>
+<outfit id="10" voc="1" lvl="225">
+<list gender="0-3" lookType="274" name="Saga 10"/>
+</outfit>
+<outfit id="11" voc="1" lvl="250">
+<list gender="0-3" lookType="275" name="Saga 11"/>
+</outfit>
+<outfit id="12" voc="1" lvl="275">
+<list gender="0-3" lookType="276" name="Saga 12"/>
+</outfit>
+<outfit id="13" voc="1" lvl="300">
+<list gender="0-3" lookType="273" name="Saga 13"/>
+</outfit>
+<outfit id="14" voc="1" lvl="350">
+<list gender="0-3" lookType="278" name="Saga 14"/>
+</outfit>
+<outfit id="15" voc="1" lvl="450">
+<list gender="0-3" lookType="279" name="Saga 15"/>
+</outfit>
+<outfit id="16" voc="1" lvl="500">
+<list gender="0-3" lookType="1294" name="Saga 16"/>
+</outfit>
+<outfit id="17" voc="1" lvl="550">
+<list gender="0-3" lookType="281" name="Saga 17"/>
+</outfit>
+<outfit id="18" voc="1" lvl="575">
+<list gender="0-3" lookType="282" name="Saga 18"/>
+</outfit>
+
+<outfit id="19" voc="1" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1173" name="Anbu"/>
+</outfit>
+
+<outfit id="20" voc="1" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="877" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3500" voc="1" storageId="8000" storageValue="1">
+<list gender="0-3" lookType="1272" name="Skin"/>
+</outfit>
+
+
+
+
+<!-- sasuke -->
+<outfit id="30" voc="10" lvl="1">
+<list gender="0-3" lookType="2110" name="Saga 1"/>
+</outfit>
+<outfit id="31" voc="10" lvl="50">
+<list gender="0-3" lookType="2111" name="Saga 2"/>
+</outfit>
+<outfit id="32" voc="10" lvl="100">
+<list gender="0-3" lookType="2112" name="Saga 3"/>
+</outfit>
+<outfit id="33" voc="10" lvl="150">
+<list gender="0-3" lookType="2113" name="Saga 4"/>
+</outfit>
+<outfit id="34" voc="10" lvl="200">
+<list gender="0-3" lookType="2113" name="Saga 5"/>
+</outfit>
+<outfit id="35" voc="10" lvl="250">
+<list gender="0-3" lookType="2114" name="Saga 6"/>
+</outfit>
+<outfit id="36" voc="10" lvl="300">
+<list gender="0-3" lookType="2115" name="Saga 7"/>
+</outfit>
+<outfit id="37" voc="10" lvl="350">
+<list gender="0-3" lookType="2116" name="Saga 8"/>
+</outfit>
+<outfit id="38" voc="10" lvl="400">
+<list gender="0-3" lookType="2117" name="Saga 9"/>
+</outfit>
+<outfit id="39" voc="10" lvl="450">
+<list gender="0-3" lookType="2093" name="Saga 10"/>
+</outfit>
+<outfit id="51" voc="10" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1389" name="Anbu"/>
+</outfit>
+<outfit id="52" voc="10" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="836" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3513" voc="10" storageId="8013" storageValue="1">
+<list gender="0-3" lookType="1604" name="Skin"/>
+</outfit>
+
+<!-- itachi -->
+<outfit id="60" voc="100" lvl="1">
+<list gender="0-3" lookType="129" name="Saga 1"/>
+</outfit>
+<outfit id="61" voc="100" lvl="25">
+<list gender="0-3" lookType="130" name="Saga 2"/>
+</outfit>
+<outfit id="62" voc="100" lvl="35">
+<list gender="0-3" lookType="131" name="Saga 3"/>
+</outfit>
+<outfit id="63" voc="100" lvl="70">
+<list gender="0-3" lookType="132" name="Saga 4"/>
+</outfit>
+<outfit id="64" voc="100" lvl="80">
+<list gender="0-3" lookType="133" name="Saga 5"/>
+</outfit>
+<outfit id="65" voc="100" lvl="100">
+<list gender="0-3" lookType="134" name="Saga 6"/>
+</outfit>
+<outfit id="66" voc="100" lvl="150">
+<list gender="0-3" lookType="135" name="Saga 7"/>
+</outfit>
+<outfit id="67" voc="100" lvl="170">
+<list gender="0-3" lookType="136" name="Saga 8"/>
+</outfit>
+<outfit id="68" voc="100" lvl="200">
+<list gender="0-3" lookType="137" name="Saga 9"/>
+</outfit>
+<outfit id="69" voc="100" lvl="250">
+<list gender="0-3" lookType="141" name="Saga 10"/>
+</outfit>
+<outfit id="70" voc="100" lvl="285">
+<list gender="0-3" lookType="139" name="Saga 11"/>
+</outfit>
+<outfit id="71" voc="100" lvl="300">
+<list gender="0-3" lookType="140" name="Saga 12"/>
+</outfit>
+<outfit id="72" voc="100" lvl="350">
+<list gender="0-3" lookType="143" name="Saga 13"/>
+</outfit>
+<outfit id="73" voc="100" lvl="450">
+<list gender="0-3" lookType="138" name="Saga 14"/>
+</outfit>
+<outfit id="75" voc="100" lvl="500">
+<list gender="0-3" lookType="144" name="Saga 16"/>
+</outfit>
+<outfit id="76" voc="100" lvl="550">
+<list gender="0-3" lookType="1637" name="Saga 17"/>
+</outfit>
+<outfit id="77" voc="100" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1414" name="Anbu"/>
+</outfit>
+<outfit id="78" voc="100" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1419" name="Akatsuki"/>
+</outfit>
+
+<!-- skin -->
+<outfit id="3502" voc="100" storageId="8002" storageValue="1">
+<list gender="0-3" lookType="1323" name="Skin"/>
+</outfit>
+
+
+
+<!-- rock lee -->
+<outfit id="90" voc="20" lvl="1">
+<list gender="0-3" lookType="1759" name="Saga 1"/>
+</outfit>
+<outfit id="91" voc="20" lvl="25">
+<list gender="0-3" lookType="1760" name="Saga 2"/>
+</outfit>
+<outfit id="92" voc="20" lvl="75">
+<list gender="0-3" lookType="1761" name="Saga 3"/>
+</outfit>
+<outfit id="93" voc="20" lvl="150">
+<list gender="0-3" lookType="1762" name="Saga 4"/>
+</outfit>
+<outfit id="94" voc="20" lvl="200">
+<list gender="0-3" lookType="1763" name="Saga 5"/>
+</outfit>
+<outfit id="95" voc="20" lvl="300">
+<list gender="0-3" lookType="1764" name="Saga 6"/>
+</outfit>
+<outfit id="96" voc="20" lvl="350">
+<list gender="0-3" lookType="1765" name="Saga 7"/>
+</outfit>
+<outfit id="97" voc="20" lvl="400">
+<list gender="0-3" lookType="1766" name="Saga 8"/>
+</outfit>
+<outfit id="98" voc="20" lvl="450">
+<list gender="0-3" lookType="1767" name="Saga 9"/>
+</outfit>
+<outfit id="99" voc="20" lvl="500">
+<list gender="0-3" lookType="1768" name="Saga 10"/>
+</outfit>
+<outfit id="100" voc="20" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1168" name="Anbu"/>
+</outfit>
+<outfit id="101" voc="20" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="868" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3524" voc="20" storageId="8024" storageValue="1">
+<list gender="0-3" lookType="1692" name="Skin"/>
+</outfit>
+
+
+<!-- kakashi -->
+<outfit id="110" voc="120" lvl="1">
+<list gender="0-3" lookType="162" name="Saga 1"/>
+</outfit>
+<outfit id="111" voc="120" lvl="25">
+<list gender="0-3" lookType="170" name="Saga 2"/>
+</outfit>
+<outfit id="112" voc="120" lvl="75">
+<list gender="0-3" lookType="171" name="Saga 3"/>
+</outfit>
+<outfit id="113" voc="120" lvl="120">
+<list gender="0-3" lookType="164" name="Saga 4"/>
+</outfit>
+<outfit id="114" voc="120" lvl="180">
+<list gender="0-3" lookType="165" name="Saga 5"/>
+</outfit>
+<outfit id="115" voc="120" lvl="250">
+<list gender="0-3" lookType="166" name="Saga 6"/>
+</outfit>
+<outfit id="116" voc="120" lvl="300">
+<list gender="0-3" lookType="167" name="Saga 7"/>
+</outfit>
+<outfit id="117" voc="120" lvl="325">
+<list gender="0-3" lookType="168" name="Saga 8"/>
+</outfit>
+<outfit id="118" voc="120" lvl="400">
+<list gender="0-3" lookType="164" name="Saga 9"/>
+</outfit>
+<outfit id="119" voc="120" lvl="450">
+<list gender="0-3" lookType="172" name="Saga 10"/>
+</outfit>
+<outfit id="120" voc="120" lvl="500">
+<list gender="0-3" lookType="169" name="Saga 11"/>
+</outfit>
+<outfit id="121" voc="120" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1165" name="Anbu"/>
+</outfit>
+<outfit id="122" voc="120" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="896" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3517" voc="120" storageId="8017" storageValue="1">
+<list gender="0-3" lookType="948" name="Skin"/>
+</outfit>
+
+
+<!-- killer bee -->
+<outfit id="130" voc="110" lvl="1">
+<list gender="0-3" lookType="1244" name="Saga 1"/>
+</outfit>
+<outfit id="131" voc="110" lvl="50">
+<list gender="0-3" lookType="1245" name="Saga 2"/>
+</outfit>
+<outfit id="132" voc="110" lvl="75">
+<list gender="0-3" lookType="1246" name="Saga 3"/>
+</outfit>
+<outfit id="133" voc="110" lvl="150">
+<list gender="0-3" lookType="1247" name="Saga 4"/>
+</outfit>
+<outfit id="134" voc="110" lvl="200">
+<list gender="0-3" lookType="1248" name="Saga 5"/>
+</outfit>
+<outfit id="135" voc="110" lvl="225">
+<list gender="0-3" lookType="1249" name="Saga 6"/>
+</outfit>
+<outfit id="136" voc="110" lvl="275">
+<list gender="0-3" lookType="1250" name="Saga 7"/>
+</outfit>
+<outfit id="137" voc="110" lvl="350">
+<list gender="0-3" lookType="1251" name="Saga 8"/>
+</outfit>
+<outfit id="138" voc="110" lvl="400">
+<list gender="0-3" lookType="1252" name="Saga 9"/>
+</outfit>
+<outfit id="139" voc="110" lvl="450">
+<list gender="0-3" lookType="1253" name="Saga 10"/>
+</outfit>
+<outfit id="140" voc="110" lvl="475">
+<list gender="0-3" lookType="1254" name="Saga 11"/>
+</outfit>
+<outfit id="141" voc="110" lvl="500">
+<list gender="0-3" lookType="1769" name="Saga 12"/>
+</outfit>
+<outfit id="142" voc="110" lvl="525">
+<list gender="0-3" lookType="1330" name="Saga 13"/>
+</outfit>
+<outfit id="143" voc="110" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1118" name="Anbu"/>
+</outfit>
+<outfit id="144" voc="110" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="838" name="Akatsuki"/>
+</outfit>
+
+
+<!-- hinata -->
+<outfit id="150" voc="80" lvl="1">
+<list gender="0-3" lookType="107" name="Saga 1"/>
+</outfit>
+<outfit id="151" voc="80" lvl="25">
+<list gender="0-3" lookType="108" name="Saga 2"/>
+</outfit>
+<outfit id="152" voc="80" lvl="50">
+<list gender="0-3" lookType="1753" name="Saga 3"/>
+</outfit>
+<outfit id="153" voc="80" lvl="100">
+<list gender="0-3" lookType="1754" name="Saga 4"/>
+</outfit>
+<outfit id="154" voc="80" lvl="125">
+<list gender="0-3" lookType="111" name="Saga 5"/>
+</outfit>
+<outfit id="155" voc="80" lvl="175">
+<list gender="0-3" lookType="1756" name="Saga 6"/>
+</outfit>
+<outfit id="156" voc="80" lvl="200">
+<list gender="0-3" lookType="113" name="Saga 7"/>
+</outfit>
+<outfit id="157" voc="80" lvl="250">
+<list gender="0-3" lookType="1757" name="Saga 8"/>
+</outfit>
+<outfit id="158" voc="80" lvl="275">
+<list gender="0-3" lookType="1758" name="Saga 9"/>
+</outfit>
+<outfit id="159" voc="80" lvl="350">
+<list gender="0-3" lookType="116" name="Saga 10"/>
+</outfit>
+<outfit id="160" voc="80" lvl="375">
+<list gender="0-3" lookType="117" name="Saga 11"/>
+</outfit>
+<outfit id="161" voc="80" lvl="400">
+<list gender="0-3" lookType="118" name="Saga 12"/>
+</outfit>
+<outfit id="162" voc="80" lvl="450">
+<list gender="0-3" lookType="119" name="Saga 13"/>
+</outfit>
+<outfit id="163" voc="80" lvl="500">
+<list gender="0-3" lookType="1484" name="Saga 14"/>
+</outfit>
+<outfit id="164" voc="80" lvl="550">
+<list gender="0-3" lookType="1483" name="Saga 15"/>
+</outfit>
+<outfit id="165" voc="80" lvl="575">
+<list gender="0-3" lookType="1482" name="Saga 16"/>
+</outfit>
+<outfit id="166" voc="80" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1485" name="Anbu"/>
+</outfit>
+<outfit id="167" voc="80" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="869" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3504" voc="80" storageId="8004" storageValue="1">
+<list gender="0-3" lookType="1326" name="Skin"/>
+</outfit>
+<outfit id="3514" voc="80" storageId="8014" storageValue="1">
+<list gender="0-3" lookType="1607" name="Skin"/>
+</outfit>
+<outfit id="3519" voc="80" storageId="8019" storageValue="1">
+<list gender="0-3" lookType="1660" name="Skin"/>
+</outfit>
+<outfit id="3522" voc="80" storageId="8022" storageValue="1">
+<list gender="0-3" lookType="1690" name="Skin"/>
+</outfit>
+<outfit id="3525" voc="80" storageId="8025" storageValue="1">
+<list gender="0-3" lookType="1694" name="Skin"/>
+</outfit>
+
+
+<!-- obito -->
+<outfit id="170" voc="130" lvl="1">
+<list gender="0-3" lookType="283" name="Saga 1"/>
+</outfit>
+<outfit id="171" voc="130" lvl="25">
+<list gender="0-3" lookType="284" name="Saga 2"/>
+</outfit>
+<outfit id="172" voc="130" lvl="50">
+<list gender="0-3" lookType="285" name="Saga 3"/>
+</outfit>
+<outfit id="173" voc="130" lvl="75">
+<list gender="0-3" lookType="286" name="Saga 4"/>
+</outfit>
+<outfit id="174" voc="130" lvl="125">
+<list gender="0-3" lookType="287" name="Saga 5"/>
+</outfit>
+<outfit id="175" voc="130" lvl="150">
+<list gender="0-3" lookType="288" name="Saga 6"/>
+</outfit>
+<outfit id="176" voc="130" lvl="200">
+<list gender="0-3" lookType="289" name="Saga 7"/>
+</outfit>
+<outfit id="177" voc="130" lvl="225">
+<list gender="0-3" lookType="290" name="Saga 8"/>
+</outfit>
+<outfit id="178" voc="130" lvl="300">
+<list gender="0-3" lookType="292" name="Saga 9"/>
+</outfit>
+<outfit id="179" voc="130" lvl="350">
+<list gender="0-3" lookType="293" name="Saga 10"/>
+</outfit>
+<outfit id="180" voc="130" lvl="400">
+<list gender="0-3" lookType="1116" name="Saga 11"/>
+</outfit>
+<outfit id="181" voc="130" lvl="425">
+<list gender="0-3" lookType="294" name="Saga 12"/>
+</outfit>
+<outfit id="182" voc="130" lvl="450">
+<list gender="0-3" lookType="1383" name="Saga 13"/>
+</outfit>
+<outfit id="183" voc="130" lvl="475">
+<list gender="0-3" lookType="1382" name="Saga 14"/>
+</outfit>
+<outfit id="185" voc="130" lvl="500">
+<list gender="0-3" lookType="919" name="Saga 15"/>
+</outfit>
+<outfit id="186" voc="130" lvl="520">
+<list gender="0-3" lookType="920" name="Saga 16"/>
+</outfit>
+<outfit id="187" voc="130" lvl="530">
+<list gender="0-3" lookType="1232" name="Saga 17"/>
+</outfit>
+<outfit id="188" voc="130" lvl="540">
+<list gender="0-3" lookType="900" name="Saga 18"/>
+</outfit>
+<outfit id="189" voc="130" lvl="550">
+<list gender="0-3" lookType="921" name="Saga 19"/>
+</outfit>
+<outfit id="800" voc="130" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1121" name="Anbu"/>
+</outfit>
+<outfit id="801" voc="130" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="881" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3515" voc="130" storageId="8015" storageValue="1">
+<list gender="0-3" lookType="1617" name="Skin"/>
+</outfit>
+
+
+
+<!-- minato -->
+<outfit id="190" voc="180" lvl="1">
+<list gender="0-3" lookType="1987" name="Saga 1"/>
+</outfit>
+<outfit id="191" voc="180" lvl="25">
+<list gender="0-3" lookType="1984" name="Saga 2"/>
+</outfit>
+<outfit id="192" voc="180" lvl="75">
+<list gender="0-3" lookType="1988" name="Saga 3"/>
+</outfit>
+<outfit id="193" voc="180" lvl="150">
+<list gender="0-3" lookType="1989" name="Saga 4"/>
+</outfit>
+<outfit id="194" voc="180" lvl="200">
+<list gender="0-3" lookType="1978" name="Saga 5"/>
+</outfit>
+<outfit id="195" voc="180" lvl="250">
+<list gender="0-3" lookType="1979" name="Saga 6"/>
+</outfit>
+<outfit id="196" voc="180" lvl="275">
+<list gender="0-3" lookType="1980" name="Saga 7"/>
+</outfit>
+<outfit id="197" voc="180" lvl="350">
+<list gender="0-3" lookType="1981" name="Saga 8"/>
+</outfit>
+<outfit id="198" voc="180" lvl="400">
+<list gender="0-3" lookType="1982" name="Saga 9"/>
+</outfit>
+<outfit id="199" voc="180" lvl="450">
+<list gender="0-3" lookType="1983" name="Saga 10"/>
+</outfit>
+<outfit id="804" voc="180" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1990" name="Anbu"/>
+</outfit>
+<outfit id="805" voc="180" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1992" name="Akatsuki"/>
+</outfit>
+
+
+<!-- madara -->
+<outfit id="200" voc="140" lvl="1">
+<list gender="0-3" lookType="221" name="Saga 1"/>
+</outfit>
+<outfit id="201" voc="140" lvl="50">
+<list gender="0-3" lookType="222" name="Saga 2"/>
+</outfit>
+<outfit id="202" voc="140" lvl="75">
+<list gender="0-3" lookType="223" name="Saga 3"/>
+</outfit>
+<outfit id="203" voc="140" lvl="125">
+<list gender="0-3" lookType="224" name="Saga 4"/>
+</outfit>
+<outfit id="204" voc="140" lvl="200">
+<list gender="0-3" lookType="225" name="Saga 5"/>
+</outfit>
+<outfit id="205" voc="140" lvl="250">
+<list gender="0-3" lookType="226" name="Saga 6"/>
+</outfit>
+<outfit id="206" voc="140" lvl="300">
+<list gender="0-3" lookType="227" name="Saga 7"/>
+</outfit>
+<outfit id="207" voc="140" lvl="400">
+<list gender="0-3" lookType="228" name="Saga 8"/>
+</outfit>
+<outfit id="208" voc="140" lvl="425">
+<list gender="0-3" lookType="229" name="Saga 9"/>
+</outfit>
+<outfit id="210" voc="140" lvl="475">
+<list gender="0-3" lookType="231" name="Saga 10"/>
+</outfit>
+<outfit id="211" voc="140" lvl="525">
+<list gender="0-3" lookType="232" name="Saga 11"/>
+</outfit>
+<outfit id="808" voc="140" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1403" name="Anbu"/>
+</outfit>
+<outfit id="809" voc="140" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1418" name="Akatsuki"/>
+</outfit>
+
+<!-- skin -->
+<outfit id="3501" voc="140" storageId="8001" storageValue="1">
+<list gender="0-3" lookType="1311" name="Skin"/>
+</outfit>
+<outfit id="3503" voc="140" storageId="8003" storageValue="1">
+<list gender="0-3" lookType="1324" name="Skin"/>
+</outfit>
+<outfit id="3509" voc="140" storageId="8009" storageValue="1">
+<list gender="0-3" lookType="1594" name="Skin"/>
+</outfit>
+
+
+
+
+<!-- shisui -->
+<outfit id="220" voc="260" lvl="1">
+<list gender="0-3" lookType="427" name="Saga 1"/>
+</outfit>
+<outfit id="221" voc="260" lvl="25">
+<list gender="0-3" lookType="428" name="Saga 2"/>
+</outfit>
+<outfit id="222" voc="260" lvl="50">
+<list gender="0-3" lookType="430" name="Saga 3"/>
+</outfit>
+<outfit id="223" voc="260" lvl="75">
+<list gender="0-3" lookType="431" name="Saga 4"/>
+</outfit>
+<outfit id="224" voc="260" lvl="175">
+<list gender="0-3" lookType="429" name="Saga 5"/>
+</outfit>
+<outfit id="225" voc="260" lvl="200">
+<list gender="0-3" lookType="432" name="Saga 6"/>
+</outfit>
+<outfit id="226" voc="260" lvl="250">
+<list gender="0-3" lookType="433" name="Saga 7"/>
+</outfit>
+<outfit id="227" voc="260" lvl="300">
+<list gender="0-3" lookType="434" name="Saga 8"/>
+</outfit>
+<outfit id="228" voc="260" lvl="350">
+<list gender="0-3" lookType="435" name="Saga 9"/>
+</outfit>
+<outfit id="229" voc="260" lvl="400">
+<list gender="0-3" lookType="436" name="Saga 10"/>
+</outfit>
+<outfit id="230" voc="260" lvl="450">
+<list gender="0-3" lookType="437" name="Saga 11"/>
+</outfit>
+<outfit id="231" voc="260" lvl="500">
+<list gender="0-3" lookType="438" name="Saga 12"/>
+</outfit>
+<outfit id="810" voc="260" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1409" name="Anbu"/>
+</outfit>
+<outfit id="811" voc="260" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1410" name="Akatsuki"/>
+</outfit>
+
+
+<!-- hashirama -->
+<outfit id="240" voc="280" lvl="1">
+<list gender="0-3" lookType="83" name="Saga 1"/>
+</outfit>
+<outfit id="241" voc="280" lvl="50">
+<list gender="0-3" lookType="84" name="Saga 2"/>
+</outfit>
+<outfit id="242" voc="280" lvl="100">
+<list gender="0-3" lookType="1994" name="Saga 3"/>
+</outfit>
+<outfit id="243" voc="280" lvl="150">
+<list gender="0-3" lookType="1995" name="Saga 4"/>
+</outfit>
+<outfit id="244" voc="280" lvl="200">
+<list gender="0-3" lookType="1996" name="Saga 5"/>
+</outfit>
+<outfit id="245" voc="280" lvl="250">
+<list gender="0-3" lookType="1997" name="Saga 6"/>
+</outfit>
+<outfit id="246" voc="280" lvl="300">
+<list gender="0-3" lookType="1998" name="Saga 7"/>
+</outfit>
+<outfit id="247" voc="280" lvl="350">
+<list gender="0-3" lookType="1999" name="Saga 8"/>
+</outfit>
+<outfit id="248" voc="280" lvl="400">
+<list gender="0-3" lookType="2000" name="Saga 9"/>
+</outfit>
+<outfit id="812" voc="280" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1431" name="Anbu"/>
+</outfit>
+<outfit id="813" voc="280" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="825" name="Akatsuki"/>
+</outfit>
+
+
+<!-- haku -->
+<outfit id="260" voc="290" lvl="1">
+<list gender="0-3" lookType="73" name="Saga 1"/>
+</outfit>
+<outfit id="261" voc="290" lvl="50">
+<list gender="0-3" lookType="74" name="Saga 2"/>
+</outfit>
+<outfit id="262" voc="290" lvl="75">
+<list gender="0-3" lookType="75" name="Saga 3"/>
+</outfit>
+<outfit id="263" voc="290" lvl="150">
+<list gender="0-3" lookType="76" name="Saga 4"/>
+</outfit>
+<outfit id="264" voc="290" lvl="200">
+<list gender="0-3" lookType="77" name="Saga 5"/>
+</outfit>
+<outfit id="265" voc="290" lvl="250">
+<list gender="0-3" lookType="78" name="Saga 6"/>
+</outfit>
+<outfit id="266" voc="290" lvl="300">
+<list gender="0-3" lookType="79" name="Saga 7"/>
+</outfit>
+<outfit id="267" voc="290" lvl="400">
+<list gender="0-3" lookType="80" name="Saga 8"/>
+</outfit>
+<outfit id="268" voc="290" lvl="425">
+<list gender="0-3" lookType="81" name="Saga 9"/>
+</outfit>
+<outfit id="269" voc="290" lvl="475">
+<list gender="0-3" lookType="82" name="Saga 10"/>
+</outfit>
+<outfit id="814" voc="290" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1126" name="Anbu"/>
+</outfit>
+<outfit id="815" voc="290" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="851" name="Akatsuki"/>
+</outfit>
+
+
+<!-- orochimaru -->
+<outfit id="280" voc="210" lvl="1">
+<list gender="0-3" lookType="310" name="Saga 1"/>
+</outfit>
+<outfit id="281" voc="210" lvl="25">
+<list gender="0-3" lookType="311" name="Saga 2"/>
+</outfit>
+<outfit id="282" voc="210" lvl="75">
+<list gender="0-3" lookType="312" name="Saga 3"/>
+</outfit>
+<outfit id="283" voc="210" lvl="100">
+<list gender="0-3" lookType="313" name="Saga 4"/>
+</outfit>
+<outfit id="284" voc="210" lvl="180">
+<list gender="0-3" lookType="314" name="Saga 5"/>
+</outfit>
+<outfit id="285" voc="210" lvl="250">
+<list gender="0-3" lookType="315" name="Saga 6"/>
+</outfit>
+<outfit id="286" voc="210" lvl="300">
+<list gender="0-3" lookType="316" name="Saga 7"/>
+</outfit>
+<outfit id="287" voc="210" lvl="325">
+<list gender="0-3" lookType="317" name="Saga 8"/>
+</outfit>
+<outfit id="288" voc="210" lvl="350">
+<list gender="0-3" lookType="318" name="Saga 9"/>
+</outfit>
+<outfit id="289" voc="210" lvl="400">
+<list gender="0-3" lookType="322" name="Saga 10"/>
+</outfit>
+<outfit id="290" voc="210" lvl="450">
+<list gender="0-3" lookType="321" name="Saga 11"/>
+</outfit>
+<outfit id="291" voc="210" lvl="475">
+<list gender="0-3" lookType="319" name="Saga 12"/>
+</outfit>
+<outfit id="292" voc="210" lvl="500">
+<list gender="0-3" lookType="320" name="Saga 13"/>
+</outfit>
+<outfit id="816" voc="210" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1132" name="Anbu"/>
+</outfit>
+<outfit id="817" voc="210" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="316" name="Akatsuki"/>
+</outfit>
+
+
+<!-- sai -->
+<outfit id="300" voc="270" lvl="1">
+<list gender="0-3" lookType="337" name="Saga 1"/>
+</outfit>
+<outfit id="301" voc="270" lvl="25">
+<list gender="0-3" lookType="338" name="Saga 2"/>
+</outfit>
+<outfit id="302" voc="270" lvl="50">
+<list gender="0-3" lookType="340" name="Saga 3"/>
+</outfit>
+<outfit id="303" voc="270" lvl="75">
+<list gender="0-3" lookType="341" name="Saga 4"/>
+</outfit>
+<outfit id="304" voc="270" lvl="150">
+<list gender="0-3" lookType="342" name="Saga 5"/>
+</outfit>
+<outfit id="305" voc="270" lvl="200">
+<list gender="0-3" lookType="349" name="Saga 6"/>
+</outfit>
+<outfit id="306" voc="270" lvl="225">
+<list gender="0-3" lookType="339" name="Saga 7"/>
+</outfit>
+<outfit id="307" voc="270" lvl="250">
+<list gender="0-3" lookType="343" name="Saga 8"/>
+</outfit>
+<outfit id="308" voc="270" lvl="300">
+<list gender="0-3" lookType="344" name="Saga 9"/>
+</outfit>
+<outfit id="309" voc="270" lvl="350">
+<list gender="0-3" lookType="347" name="Saga 10"/>
+</outfit>
+<outfit id="310" voc="270" lvl="400">
+<list gender="0-3" lookType="348" name="Saga 11"/>
+</outfit>
+<outfit id="311" voc="270" lvl="450">
+<list gender="0-3" lookType="345" name="Saga 12"/>
+</outfit>
+<outfit id="312" voc="270" lvl="500">
+<list gender="0-3" lookType="346" name="Saga 12"/>
+</outfit>
+<outfit id="818" voc="270" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1427" name="Anbu"/>
+</outfit>
+<outfit id="819" voc="270" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="820" name="Akatsuki"/>
+</outfit>
+
+
+<!-- guren -->
+<outfit id="320" voc="300" lvl="1">
+<list gender="0-3" lookType="49" name="Saga 1"/>
+</outfit>
+<outfit id="321" voc="300" lvl="50">
+<list gender="0-3" lookType="50" name="Saga 2"/>
+</outfit>
+<outfit id="322" voc="300" lvl="100">
+<list gender="0-3" lookType="51" name="Saga 3"/>
+</outfit>
+<outfit id="323" voc="300" lvl="150">
+<list gender="0-3" lookType="52" name="Saga 4"/>
+</outfit>
+<outfit id="324" voc="300" lvl="200">
+<list gender="0-3" lookType="44" name="Saga 5"/>
+</outfit>
+<outfit id="325" voc="300" lvl="250">
+<list gender="0-3" lookType="45" name="Saga 6"/>
+</outfit>
+<outfit id="326" voc="300" lvl="300">
+<list gender="0-3" lookType="46" name="Saga 7"/>
+</outfit>
+<outfit id="327" voc="300" lvl="400">
+<list gender="0-3" lookType="47" name="Saga 8"/>
+</outfit>
+<outfit id="328" voc="300" lvl="475">
+<list gender="0-3" lookType="48" name="Saga 9"/>
+</outfit>
+<outfit id="820" voc="300" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1171" name="Anbu"/>
+</outfit>
+<outfit id="821" voc="300" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1413" name="Akatsuki"/>
+</outfit>
+
+
+<!-- sasori -->
+<outfit id="340" voc="320" lvl="1">
+<list gender="0-3" lookType="376" name="Saga 1"/>
+</outfit>
+<outfit id="341" voc="320" lvl="25">
+<list gender="0-3" lookType="377" name="Saga 2"/>
+</outfit>
+<outfit id="342" voc="320" lvl="75">
+<list gender="0-3" lookType="378" name="Saga 3"/>
+</outfit>
+<outfit id="343" voc="320" lvl="125">
+<list gender="0-3" lookType="379" name="Saga 4"/>
+</outfit>
+<outfit id="344" voc="320" lvl="200">
+<list gender="0-3" lookType="380" name="Saga 5"/>
+</outfit>
+<outfit id="345" voc="320" lvl="250">
+<list gender="0-3" lookType="381" name="Saga 6"/>
+</outfit>
+<outfit id="346" voc="320" lvl="300">
+<list gender="0-3" lookType="382" name="Saga 7"/>
+</outfit>
+<outfit id="347" voc="320" lvl="325">
+<list gender="0-3" lookType="383" name="Saga 8"/>
+</outfit>
+<outfit id="348" voc="320" lvl="375">
+<list gender="0-3" lookType="384" name="Saga 9"/>
+</outfit>
+<outfit id="349" voc="320" lvl="400">
+<list gender="0-3" lookType="385" name="Saga 10"/>
+</outfit>
+<outfit id="350" voc="320" lvl="450">
+<list gender="0-3" lookType="386" name="Saga 11"/>
+</outfit>
+<outfit id="351" voc="320" lvl="475">
+<list gender="0-3" lookType="387" name="Saga 12"/>
+</outfit>
+<outfit id="822" voc="320" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1170" name="Anbu"/>
+</outfit>
+<outfit id="823" voc="320" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="884" name="Akatsuki"/>
+</outfit>
+
+
+<!-- onoki -->
+<outfit id="360" voc="390" lvl="1">
+<list gender="0-3" lookType="300" name="Saga 1"/>
+</outfit>
+<outfit id="361" voc="390" lvl="50">
+<list gender="0-3" lookType="301" name="Saga 2"/>
+</outfit>
+<outfit id="362" voc="390" lvl="100">
+<list gender="0-3" lookType="302" name="Saga 3"/>
+</outfit>
+<outfit id="363" voc="390" lvl="150">
+<list gender="0-3" lookType="303" name="Saga 4"/>
+</outfit>
+<outfit id="364" voc="390" lvl="200">
+<list gender="0-3" lookType="304" name="Saga 5"/>
+</outfit>
+<outfit id="365" voc="390" lvl="250">
+<list gender="0-3" lookType="305" name="Saga 6"/>
+</outfit>
+<outfit id="366" voc="390" lvl="300">
+<list gender="0-3" lookType="306" name="Saga 7"/>
+</outfit>
+<outfit id="367" voc="390" lvl="350">
+<list gender="0-3" lookType="307" name="Saga 8"/>
+</outfit>
+<outfit id="368" voc="390" lvl="400">
+<list gender="0-3" lookType="308" name="Saga 9"/>
+</outfit>
+<outfit id="369" voc="390" lvl="450">
+<list gender="0-3" lookType="309" name="Saga 10"/>
+</outfit>
+<outfit id="824" voc="390" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1172" name="Anbu"/>
+</outfit>
+<outfit id="825" voc="390" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="843" name="Akatsuki"/>
+</outfit>
+
+
+<!-- suigetsu -->
+<outfit id="380" voc="350" lvl="1">
+<list gender="0-3" lookType="439" name="Saga 1"/>
+</outfit>
+<outfit id="381" voc="350" lvl="25">
+<list gender="0-3" lookType="1557" name="Saga 2"/>
+</outfit>
+<outfit id="382" voc="350" lvl="50">
+<list gender="0-3" lookType="440" name="Saga 3"/>
+</outfit>
+<outfit id="383" voc="350" lvl="100">
+<list gender="0-3" lookType="1559" name="Saga 4"/>
+</outfit>
+<outfit id="384" voc="350" lvl="150">
+<list gender="0-3" lookType="1544" name="Saga 5"/>
+</outfit>
+<outfit id="385" voc="350" lvl="200">
+<list gender="0-3" lookType="1545" name="Saga 6"/>
+</outfit>
+<outfit id="386" voc="350" lvl="250">
+<list gender="0-3" lookType="441" name="Saga 7"/>
+</outfit>
+<outfit id="387" voc="350" lvl="300">
+<list gender="0-3" lookType="1552" name="Saga 8"/>
+</outfit>
+<outfit id="388" voc="350" lvl="350">
+<list gender="0-3" lookType="442" name="Saga 9"/>
+</outfit>
+<outfit id="389" voc="350" lvl="400">
+<list gender="0-3" lookType="443" name="Saga 10"/>
+</outfit>
+<outfit id="390" voc="350" lvl="450">
+<list gender="0-3" lookType="444" name="Saga 11"/>
+</outfit>
+<outfit id="391" voc="350" lvl="500">
+<list gender="0-3" lookType="1549" name="Saga 12"/>
+</outfit>
+<outfit id="826" voc="350" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1133" name="Anbu"/>
+</outfit>
+<outfit id="827" voc="350" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="866" name="Akatsuki"/>
+</outfit>
+
+
+<!-- tobirama -->
+<outfit id="400" voc="250" lvl="1">
+<list gender="0-3" lookType="468" name="Saga 1"/>
+</outfit>
+<outfit id="401" voc="250" lvl="25">
+<list gender="0-3" lookType="474" name="Saga 2"/>
+</outfit>
+<outfit id="402" voc="250" lvl="50">
+<list gender="0-3" lookType="1268" name="Saga 3"/>
+</outfit>
+<outfit id="403" voc="250" lvl="100">
+<list gender="0-3" lookType="469" name="Saga 4"/>
+</outfit>
+<outfit id="404" voc="250" lvl="150">
+<list gender="0-3" lookType="1264" name="Saga 5"/>
+</outfit>
+<outfit id="405" voc="250" lvl="200">
+<list gender="0-3" lookType="470" name="Saga 6"/>
+</outfit>
+<outfit id="406" voc="250" lvl="250">
+<list gender="0-3" lookType="471" name="Saga 7"/>
+</outfit>
+<outfit id="407" voc="250" lvl="300">
+<list gender="0-3" lookType="1266" name="Saga 8"/>
+</outfit>
+<outfit id="408" voc="250" lvl="350">
+<list gender="0-3" lookType="472" name="Saga 9"/>
+</outfit>
+<outfit id="409" voc="250" lvl="400">
+<list gender="0-3" lookType="473" name="Saga 10"/>
+</outfit>
+<outfit id="410" voc="250" lvl="450">
+<list gender="0-3" lookType="1267" name="Saga 11"/>
+</outfit>
+<outfit id="411" voc="250" lvl="525">
+<list gender="0-3" lookType="1605" name="Saga 12"/>
+</outfit>
+<outfit id="828" voc="250" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1826" name="Anbu"/>
+</outfit>
+<outfit id="829" voc="250" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="826" name="Akatsuki"/>
+</outfit>
+
+
+<!-- jiraya -->
+<outfit id="420" voc="190" lvl="1">
+<list gender="0-3" lookType="145" name="Saga 1"/>
+</outfit>
+<outfit id="421" voc="190" lvl="50">
+<list gender="0-3" lookType="146" name="Saga 2"/>
+</outfit>
+<outfit id="422" voc="190" lvl="100">
+<list gender="0-3" lookType="147" name="Saga 3"/>
+</outfit>
+<outfit id="423" voc="190" lvl="175">
+<list gender="0-3" lookType="148" name="Saga 4"/>
+</outfit>
+<outfit id="424" voc="190" lvl="250">
+<list gender="0-3" lookType="149" name="Saga 5"/>
+</outfit>
+<outfit id="425" voc="190" lvl="300">
+<list gender="0-3" lookType="150" name="Saga 6"/>
+</outfit>
+<outfit id="426" voc="190" lvl="350">
+<list gender="0-3" lookType="151" name="Saga 7"/>
+</outfit>
+<outfit id="427" voc="190" lvl="450">
+<list gender="0-3" lookType="152" name="Saga 8"/>
+</outfit>
+<outfit id="830" voc="190" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1402" name="Anbu"/>
+</outfit>
+<outfit id="831" voc="190" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="841" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3526" voc="190" storageId="8026" storageValue="1">
+<list gender="0-3" lookType="1695" name="Skin"/>
+</outfit>
+
+
+<!-- tsunade -->
+<outfit id="440" voc="330" lvl="1">
+<list gender="0-3" lookType="476" name="Saga 1"/>
+</outfit>
+<outfit id="441" voc="330" lvl="50">
+<list gender="0-3" lookType="477" name="Saga 2"/>
+</outfit>
+<outfit id="442" voc="330" lvl="100">
+<list gender="0-3" lookType="478" name="Saga 3"/>
+</outfit>
+<outfit id="443" voc="330" lvl="150">
+<list gender="0-3" lookType="479" name="Saga 4"/>
+</outfit>
+<outfit id="444" voc="330" lvl="200">
+<list gender="0-3" lookType="1316" name="Saga 5"/>
+</outfit>
+<outfit id="445" voc="330" lvl="250">
+<list gender="0-3" lookType="480" name="Saga 6"/>
+</outfit>
+<outfit id="446" voc="330" lvl="350">
+<list gender="0-3" lookType="481" name="Saga 7"/>
+</outfit>
+<outfit id="447" voc="330" lvl="450">
+<list gender="0-3" lookType="475" name="Saga 8"/>
+</outfit>
+<outfit id="832" voc="330" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1429" name="Anbu"/>
+</outfit>
+<outfit id="833" voc="330" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="895" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3516" voc="330" storageId="8016" storageValue="1">
+<list gender="0-3" lookType="1622" name="Skin"/>
+</outfit>
+<outfit id="3521" voc="330" storageId="8021" storageValue="1">
+<list gender="0-3" lookType="1662" name="Skin"/>
+</outfit>
+<outfit id="7002" voc="330" storageId="8022" storageValue="1">
+<list gender="0-3" lookType="1686" name="Skin"/>
+</outfit>
+
+
+<!-- gaara -->
+<outfit id="460" voc="40" lvl="1">
+<list gender="0-3" lookType="1452" name="Saga 1"/>
+</outfit>
+<outfit id="461" voc="40" lvl="50">
+<list gender="0-3" lookType="42" name="Saga 2"/>
+</outfit>
+<outfit id="462" voc="40" lvl="100">
+<list gender="0-3" lookType="41" name="Saga 3"/>
+</outfit>
+<outfit id="463" voc="40" lvl="125">
+<list gender="0-3" lookType="1453" name="Saga 4"/>
+</outfit>
+<outfit id="464" voc="40" lvl="175">
+<list gender="0-3" lookType="43" name="Saga 5"/>
+</outfit>
+<outfit id="465" voc="40" lvl="200">
+<list gender="0-3" lookType="35" name="Saga 6"/>
+</outfit>
+<outfit id="466" voc="40" lvl="250">
+<list gender="0-3" lookType="36" name="Saga 7"/>
+</outfit>
+<outfit id="467" voc="40" lvl="300">
+<list gender="0-3" lookType="1464" name="Saga 8"/>
+</outfit>
+<outfit id="468" voc="40" lvl="350">
+<list gender="0-3" lookType="37" name="Saga 9"/>
+</outfit>
+<outfit id="469" voc="40" lvl="375">
+<list gender="0-3" lookType="38" name="Saga 10"/>
+</outfit>
+<outfit id="470" voc="40" lvl="400">
+<list gender="0-3" lookType="39" name="Saga 11"/>
+</outfit>
+<outfit id="471" voc="40" lvl="425">
+<list gender="0-3" lookType="40" name="Saga 12"/>
+</outfit>
+<outfit id="472" voc="40" lvl="450">
+<list gender="0-3" lookType="33" name="Saga 13"/>
+</outfit>
+<outfit id="473" voc="40" lvl="500">
+<list gender="0-3" lookType="1455" name="Saga 14"/>
+</outfit>
+<outfit id="474" voc="40" lvl="525">
+<list gender="0-3" lookType="1456" name="Saga 15"/>
+</outfit>
+<outfit id="834" voc="40" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1395" name="Anbu"/>
+</outfit>
+<outfit id="835" voc="40" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="864" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3507" voc="40" storageId="8007" storageValue="1">
+<list gender="0-3" lookType="1454" name="Skin"/>
+</outfit>
+<outfit id="3520" voc="40" storageId="8020" storageValue="1">
+<list gender="0-3" lookType="1661" name="Skin"/>
+</outfit>
+
+
+<!-- ino -->
+<outfit id="480" voc="340" lvl="1">
+<list gender="0-3" lookType="1797" name="Saga 1"/>
+</outfit>
+<outfit id="481" voc="340" lvl="25">
+<list gender="0-3" lookType="1796" name="Saga 2"/>
+</outfit>
+<outfit id="482" voc="340" lvl="50">
+<list gender="0-3" lookType="120" name="Saga 3"/>
+</outfit>
+<outfit id="483" voc="340" lvl="100">
+<list gender="0-3" lookType="121" name="Saga 4"/>
+</outfit>
+<outfit id="484" voc="340" lvl="150">
+<list gender="0-3" lookType="123" name="Saga 5"/>
+</outfit>
+<outfit id="485" voc="340" lvl="175">
+<list gender="0-3" lookType="124" name="Saga 6"/>
+</outfit>
+<outfit id="486" voc="340" lvl="200">
+<list gender="0-3" lookType="125" name="Saga 7"/>
+</outfit>
+<outfit id="487" voc="340" lvl="250">
+<list gender="0-3" lookType="126" name="Saga 8"/>
+</outfit>
+<outfit id="488" voc="340" lvl="300">
+<list gender="0-3" lookType="127" name="Saga 9"/>
+</outfit>
+<outfit id="489" voc="340" lvl="325">
+<list gender="0-3" lookType="128" name="Saga 10"/>
+</outfit>
+<outfit id="490" voc="340" lvl="350">
+<list gender="0-3" lookType="1368" name="Saga 11"/>
+</outfit>
+<outfit id="491" voc="340" lvl="400">
+<list gender="0-3" lookType="1369" name="Saga 12"/>
+</outfit>
+<outfit id="492" voc="340" lvl="450">
+<list gender="0-3" lookType="1787" name="Saga 13"/>
+</outfit>
+<outfit id="493" voc="340" lvl="475">
+<list gender="0-3" lookType="1788" name="Saga 14"/>
+</outfit>
+<outfit id="494" voc="340" lvl="500">
+<list gender="0-3" lookType="1786" name="Saga 15"/>
+</outfit>
+<outfit id="495" voc="340" lvl="525">
+<list gender="0-3" lookType="1606" name="Saga 16"/>
+</outfit>
+<outfit id="836" voc="340" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1169" name="Anbu"/>
+</outfit>
+<outfit id="837" voc="340" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="878" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3518" voc="340" storageId="8018" storageValue="1">
+<list gender="0-3" lookType="1659" name="Skin"/>
+</outfit>
+
+
+<!-- hidan -->
+<outfit id="500" voc="360" lvl="1">
+<list gender="0-3" lookType="1002" name="Saga 1"/>
+</outfit>
+<outfit id="501" voc="360" lvl="50">
+<list gender="0-3" lookType="1003" name="Saga 2"/>
+</outfit>
+<outfit id="502" voc="360" lvl="100">
+<list gender="0-3" lookType="1004" name="Saga 3"/>
+</outfit>
+<outfit id="503" voc="360" lvl="150">
+<list gender="0-3" lookType="1005" name="Saga 4"/>
+</outfit>
+<outfit id="504" voc="360" lvl="200">
+<list gender="0-3" lookType="102" name="Saga 5"/>
+</outfit>
+<outfit id="505" voc="360" lvl="250">
+<list gender="0-3" lookType="104" name="Saga 6"/>
+</outfit>
+<outfit id="506" voc="360" lvl="300">
+<list gender="0-3" lookType="100" name="Saga 7"/>
+</outfit>
+<outfit id="507" voc="360" lvl="350">
+<list gender="0-3" lookType="103" name="Saga 8"/>
+</outfit>
+<outfit id="508" voc="360" lvl="400">
+<list gender="0-3" lookType="101" name="Saga 9"/>
+</outfit>
+<outfit id="509" voc="360" lvl="450">
+<list gender="0-3" lookType="99" name="Saga 10"/>
+</outfit>
+<outfit id="510" voc="360" lvl="500">
+<list gender="0-3" lookType="1290" name="Saga 11"/>
+</outfit>
+<outfit id="511" voc="360" lvl="525">
+<list gender="0-3" lookType="1291" name="Saga 12"/>
+</outfit>
+<outfit id="512" voc="360" lvl="575">
+<list gender="0-3" lookType="1292" name="Saga 13"/>
+</outfit>
+<outfit id="513" voc="360" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1119" name="Anbu"/>
+</outfit>
+<outfit id="514" voc="360" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="842" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3511" voc="360" storageId="8011" storageValue="1">
+<list gender="0-3" lookType="1598" name="Skin"/>
+</outfit>
+<!-- skin -->
+<outfit id="7001" voc="360" storageId="8012" storageValue="1">
+<list gender="0-3" lookType="1327" name="Skin"/>
+</outfit>
+
+
+<!-- kankuro -->
+<outfit id="520" voc="170" lvl="1">
+<list gender="0-3" lookType="181" name="Saga 1"/>
+</outfit>
+<outfit id="521" voc="170" lvl="25">
+<list gender="0-3" lookType="182" name="Saga 2"/>
+</outfit>
+<outfit id="522" voc="170" lvl="50">
+<list gender="0-3" lookType="183" name="Saga 3"/>
+</outfit>
+<outfit id="523" voc="170" lvl="100">
+<list gender="0-3" lookType="184" name="Saga 4"/>
+</outfit>
+<outfit id="524" voc="170" lvl="150">
+<list gender="0-3" lookType="185" name="Saga 5"/>
+</outfit>
+<outfit id="525" voc="170" lvl="200">
+<list gender="0-3" lookType="186" name="Saga 6"/>
+</outfit>
+<outfit id="526" voc="170" lvl="250">
+<list gender="0-3" lookType="187" name="Saga 7"/>
+</outfit>
+<outfit id="527" voc="170" lvl="300">
+<list gender="0-3" lookType="188" name="Saga 8"/>
+</outfit>
+<outfit id="528" voc="170" lvl="325">
+<list gender="0-3" lookType="189" name="Saga 9"/>
+</outfit>
+<outfit id="529" voc="170" lvl="350">
+<list gender="0-3" lookType="190" name="Saga 10"/>
+</outfit>
+<outfit id="530" voc="170" lvl="400">
+<list gender="0-3" lookType="191" name="Saga 11"/>
+</outfit>
+<outfit id="531" voc="170" lvl="425">
+<list gender="0-3" lookType="192" name="Saga 12"/>
+</outfit>
+<outfit id="532" voc="170" lvl="450">
+<list gender="0-3" lookType="1491" name="Saga 13"/>
+</outfit>
+<outfit id="533" voc="170" lvl="500">
+<list gender="0-3" lookType="1492" name="Saga 14"/>
+</outfit>
+<outfit id="534" voc="170" lvl="550">
+<list gender="0-3" lookType="1489" name="Saga 15"/>
+</outfit>
+<outfit id="838" voc="170" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1128" name="Anbu"/>
+</outfit>
+<outfit id="839" voc="170" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="821" name="Akatsuki"/>
+</outfit>
+
+
+<!-- guy -->
+<outfit id="540" voc="380" lvl="1">
+<list gender="0-3" lookType="56" name="Saga 1"/>
+</outfit>
+<outfit id="541" voc="380" lvl="100">
+<list gender="0-3" lookType="61" name="Saga 2"/>
+</outfit>
+<outfit id="542" voc="380" lvl="200">
+<list gender="0-3" lookType="62" name="Saga 3"/>
+</outfit>
+<outfit id="543" voc="380" lvl="400">
+<list gender="0-3" lookType="63" name="Saga 4"/>
+</outfit>
+<outfit id="840" voc="380" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1415" name="Anbu"/>
+</outfit>
+<outfit id="841" voc="380" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="68" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3505" voc="380" storageId="8005" storageValue="1">
+<list gender="0-3" lookType="1441" name="Skin"/>
+</outfit>
+<outfit id="3506" voc="380" storageId="8006" storageValue="1">
+<list gender="0-3" lookType="1442" name="Skin"/>
+</outfit>
+
+
+<!-- raikage -->
+<outfit id="560" voc="200" lvl="1">
+<list gender="0-3" lookType="326" name="Saga 1"/>
+</outfit>
+<outfit id="561" voc="200" lvl="25">
+<list gender="0-3" lookType="327" name="Saga 2"/>
+</outfit>
+<outfit id="562" voc="200" lvl="75">
+<list gender="0-3" lookType="328" name="Saga 3"/>
+</outfit>
+<outfit id="563" voc="200" lvl="100">
+<list gender="0-3" lookType="329" name="Saga 4"/>
+</outfit>
+<outfit id="564" voc="200" lvl="150">
+<list gender="0-3" lookType="330" name="Saga 5"/>
+</outfit>
+<outfit id="565" voc="200" lvl="200">
+<list gender="0-3" lookType="331" name="Saga 6"/>
+</outfit>
+<outfit id="566" voc="200" lvl="250">
+<list gender="0-3" lookType="332" name="Saga 7"/>
+</outfit>
+<outfit id="567" voc="200" lvl="300">
+<list gender="0-3" lookType="333" name="Saga 8"/>
+</outfit>
+<outfit id="568" voc="200" lvl="350">
+<list gender="0-3" lookType="334" name="Saga 9"/>
+</outfit>
+<outfit id="569" voc="200" lvl="400">
+<list gender="0-3" lookType="335" name="Saga 10"/>
+</outfit>
+<outfit id="570" voc="200" lvl="450">
+<list gender="0-3" lookType="336" name="Saga 11"/>
+</outfit>
+<outfit id="842" voc="200" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1100" name="Anbu"/>
+</outfit>
+<outfit id="843" voc="200" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="873" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3510" voc="200" storageId="8010" storageValue="1">
+<list gender="0-3" lookType="1595" name="Skin"/>
+</outfit>
+<outfit id="3523" voc="200" storageId="8023" storageValue="1">
+<list gender="0-3" lookType="1691" name="Skin"/>
+</outfit>
+
+
+<!-- shikamaru -->
+<outfit id="580" voc="70" lvl="1">
+<list gender="0-3" lookType="1541" name="Saga 1"/>
+</outfit>
+<outfit id="581" voc="70" lvl="25">
+<list gender="0-3" lookType="1540" name="Saga 2"/>
+</outfit>
+<outfit id="582" voc="70" lvl="50">
+<list gender="0-3" lookType="1543" name="Saga 3"/>
+</outfit>
+<outfit id="583" voc="70" lvl="100">
+<list gender="0-3" lookType="1538" name="Saga 4"/>
+</outfit>
+<outfit id="584" voc="70" lvl="150">
+<list gender="0-3" lookType="1536" name="Saga 5"/>
+</outfit>
+<outfit id="585" voc="70" lvl="200">
+<list gender="0-3" lookType="1529" name="Saga 6"/>
+</outfit>
+<outfit id="586" voc="70" lvl="250">
+<list gender="0-3" lookType="1528" name="Saga 7"/>
+</outfit>
+<outfit id="587" voc="70" lvl="300">
+<list gender="0-3" lookType="1527" name="Saga 8"/>
+</outfit>
+<outfit id="588" voc="70" lvl="350">
+<list gender="0-3" lookType="1537" name="Saga 9"/>
+</outfit>
+<outfit id="589" voc="70" lvl="400">
+<list gender="0-3" lookType="1533" name="Saga 10"/>
+</outfit>
+<outfit id="590" voc="70" lvl="425">
+<list gender="0-3" lookType="1530" name="Saga 11"/>
+</outfit>
+<outfit id="591" voc="70" lvl="450">
+<list gender="0-3" lookType="1274" name="Saga 12"/>
+</outfit>
+<outfit id="592" voc="70" lvl="500">
+<list gender="0-3" lookType="1273" name="Saga 13"/>
+</outfit>
+<outfit id="593" voc="70" lvl="525">
+<list gender="0-3" lookType="1534" name="Saga 14"/>
+</outfit>
+<outfit id="594" voc="70" lvl="550">
+<list gender="0-3" lookType="1539" name="Saga 15"/>
+</outfit>
+<outfit id="844" voc="70" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1426" name="Anbu"/>
+</outfit>
+<outfit id="845" voc="70" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="889" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3527" voc="70" storageId="8027" storageValue="1">
+<list gender="0-3" lookType="1696" name="Skin"/>
+</outfit>
+
+
+<!-- kaguya -->
+<outfit id="600" voc="310" lvl="1">
+<list gender="0-3" lookType="1646" name="Saga 1"/>
+</outfit>
+<outfit id="601" voc="310" lvl="50">
+<list gender="0-3" lookType="1647" name="Saga 2"/>
+</outfit>
+<outfit id="602" voc="310" lvl="100">
+<list gender="0-3" lookType="1648" name="Saga 3"/>
+</outfit>
+<outfit id="603" voc="310" lvl="150">
+<list gender="0-3" lookType="1649" name="Saga 4"/>
+</outfit>
+<outfit id="604" voc="310" lvl="200">
+<list gender="0-3" lookType="1205" name="Saga 5"/>
+</outfit>
+<outfit id="605" voc="310" lvl="225">
+<list gender="0-3" lookType="1204" name="Saga 6"/>
+</outfit>
+<outfit id="606" voc="310" lvl="300">
+<list gender="0-3" lookType="1212" name="Saga 7"/>
+</outfit>
+<outfit id="607" voc="310" lvl="325">
+<list gender="0-3" lookType="1213" name="Saga 8"/>
+</outfit>
+<outfit id="608" voc="310" lvl="400">
+<list gender="0-3" lookType="1214" name="Saga 9"/>
+</outfit>
+<outfit id="610" voc="310" lvl="475">
+<list gender="0-3" lookType="1643" name="Saga 11"/>
+</outfit>
+<outfit id="611" voc="310" lvl="500">
+<list gender="0-3" lookType="1644" name="Saga 12"/>
+</outfit>
+<outfit id="612" voc="310" lvl="525">
+<list gender="0-3" lookType="1645" name="Saga 13"/>
+</outfit>
+<outfit id="846" voc="310" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1416" name="Anbu"/>
+</outfit>
+<outfit id="847" voc="310" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1650" name="Akatsuki"/>
+</outfit>
+
+
+
+      <!-- sakura -->
+<outfit id="620" voc="30" lvl="1">
+<list gender="0-3" lookType="1104" name="Saga 1"/>
+</outfit>
+<outfit id="621" voc="30" lvl="25">
+<list gender="0-3" lookType="1518" name="Saga 2"/>
+</outfit>
+<outfit id="622" voc="30" lvl="50">
+<list gender="0-3" lookType="350" name="Saga 3"/>
+</outfit>
+<outfit id="623" voc="30" lvl="75">
+<list gender="0-3" lookType="1525" name="Saga 4"/>
+</outfit>
+<outfit id="624" voc="30" lvl="100">
+<list gender="0-3" lookType="1526" name="Saga 5"/>
+</outfit>
+<outfit id="625" voc="30" lvl="125">
+<list gender="0-3" lookType="1524" name="Saga 6"/>
+</outfit>
+<outfit id="626" voc="30" lvl="150">
+<list gender="0-3" lookType="1516" name="Saga 7"/>
+</outfit>
+<outfit id="627" voc="30" lvl="175">
+<list gender="0-3" lookType="1521" name="Saga 8"/>
+</outfit>
+<outfit id="628" voc="30" lvl="200">
+<list gender="0-3" lookType="1522" name="Saga 9"/>
+</outfit>
+<outfit id="629" voc="30" lvl="225">
+<list gender="0-3" lookType="1520" name="Saga 10"/>
+</outfit>
+<outfit id="630" voc="30" lvl="250">
+<list gender="0-3" lookType="1519" name="Saga 11"/>
+</outfit>
+<outfit id="631" voc="30" lvl="300">
+<list gender="0-3" lookType="1513" name="Saga 12"/>
+</outfit>
+<outfit id="632" voc="30" lvl="350">
+<list gender="0-3" lookType="1101" name="Saga 13"/>
+</outfit>
+<outfit id="633" voc="30" lvl="400">
+<list gender="0-3" lookType="1511" name="Saga 14"/>
+</outfit>
+<outfit id="634" voc="30" lvl="425">
+<list gender="0-3" lookType="1102" name="Saga 15"/>
+</outfit>
+<outfit id="636" voc="30" lvl="450">
+<list gender="0-3" lookType="1304" name="Saga 17"/>
+</outfit>
+<outfit id="637" voc="30" lvl="475">
+<list gender="0-3" lookType="1303" name="Saga 18"/>
+</outfit>
+<outfit id="635" voc="30" lvl="500">
+<list gender="0-3" lookType="1523" name="Saga 16"/>
+</outfit>
+<outfit id="638" voc="30" lvl="525">
+<list gender="0-3" lookType="1655" name="Saga 19"/>
+</outfit>
+<outfit id="639" voc="30" lvl="550">
+<list gender="0-3" lookType="1656" name="Saga 20"/>
+</outfit>
+<outfit id="640" voc="30" lvl="575">
+<list gender="0-3" lookType="1657" name="Saga 21"/>
+</outfit>
+<outfit id="848" voc="30" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1423" name="Anbu"/>
+</outfit>
+<outfit id="849" voc="30" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="837" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3508" voc="30" storageId="8008" storageValue="1">
+<list gender="0-3" lookType="1593" name="Skin"/>
+</outfit>
+<outfit id="3528" voc="30" storageId="8028" storageValue="1">
+<list gender="0-3" lookType="1697" name="Skin"/>
+</outfit>
+
+
+   <!-- tenten -->
+<outfit id="660" voc="90" lvl="1">
+<list gender="0-3" lookType="1576" name="Saga 1"/>
+</outfit>
+<outfit id="661" voc="90" lvl="25">
+<list gender="0-3" lookType="1588" name="Saga 2"/>
+</outfit>
+<outfit id="662" voc="90" lvl="50">
+<list gender="0-3" lookType="1587" name="Saga 3"/>
+</outfit>
+<outfit id="663" voc="90" lvl="75">
+<list gender="0-3" lookType="1577" name="Saga 4"/>
+</outfit>
+<outfit id="664" voc="90" lvl="100">
+<list gender="0-3" lookType="457" name="Saga 5"/>
+</outfit>
+<outfit id="665" voc="90" lvl="150">
+<list gender="0-3" lookType="458" name="Saga 6"/>
+</outfit>
+<outfit id="666" voc="90" lvl="175">
+<list gender="0-3" lookType="459" name="Saga 7"/>
+</outfit>
+<outfit id="667" voc="90" lvl="200">
+<list gender="0-3" lookType="460" name="Saga 8"/>
+</outfit>
+<outfit id="668" voc="90" lvl="225">
+<list gender="0-3" lookType="461" name="Saga 9"/>
+</outfit>
+<outfit id="669" voc="90" lvl="250">
+<list gender="0-3" lookType="1582" name="Saga 10"/>
+</outfit>
+<outfit id="670" voc="90" lvl="300">
+<list gender="0-3" lookType="1585" name="Saga 11"/>
+</outfit>
+<outfit id="671" voc="90" lvl="325">
+<list gender="0-3" lookType="1571" name="Saga 12"/>
+</outfit>
+<outfit id="672" voc="90" lvl="350">
+<list gender="0-3" lookType="1583" name="Saga 13"/>
+</outfit>
+<outfit id="673" voc="90" lvl="375">
+<list gender="0-3" lookType="1586" name="Saga 14"/>
+</outfit>
+<outfit id="674" voc="90" lvl="400">
+<list gender="0-3" lookType="1578" name="Saga 15"/>
+</outfit>
+<outfit id="675" voc="90" lvl="450">
+<list gender="0-3" lookType="1590" name="Saga 16"/>
+</outfit>
+<outfit id="676" voc="90" lvl="475">
+<list gender="0-3" lookType="1589" name="Saga 17"/>
+</outfit>
+<outfit id="677" voc="90" lvl="500">
+<list gender="0-3" lookType="1574" name="Saga 18"/>
+</outfit>
+<outfit id="678" voc="90" lvl="525">
+<list gender="0-3" lookType="1581" name="Saga 19"/>
+</outfit>
+<outfit id="679" voc="90" lvl="550">
+<list gender="0-3" lookType="1573" name="Saga 20"/>
+</outfit>
+<outfit id="680" voc="90" lvl="575">
+<list gender="0-3" lookType="1572" name="Saga 21"/>
+</outfit>
+<outfit id="850" voc="90" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1428" name="Anbu"/>
+</outfit>
+<outfit id="851" voc="90" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="874" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3529" voc="90" storageId="8029" storageValue="1">
+<list gender="0-3" lookType="1782" name="Skin"/>
+</outfit>
+
+
+     <!-- danzou -->
+<outfit id="700" voc="370" lvl="1">
+<list gender="0-3" lookType="15" name="Saga 1"/>
+</outfit>
+<outfit id="701" voc="370" lvl="25">
+<list gender="0-3" lookType="16" name="Saga 2"/>
+</outfit>
+<outfit id="702" voc="370" lvl="50">
+<list gender="0-3" lookType="17" name="Saga 3"/>
+</outfit>
+<outfit id="703" voc="370" lvl="100">
+<list gender="0-3" lookType="18" name="Saga 4"/>
+</outfit>
+<outfit id="704" voc="370" lvl="150">
+<list gender="0-3" lookType="19" name="Saga 5"/>
+</outfit>
+<outfit id="705" voc="370" lvl="200">
+<list gender="0-3" lookType="20" name="Saga 6"/>
+</outfit>
+<outfit id="706" voc="370" lvl="250">
+<list gender="0-3" lookType="21" name="Saga 7"/>
+</outfit>
+<outfit id="707" voc="370" lvl="300">
+<list gender="0-3" lookType="22" name="Saga 8"/>
+</outfit>
+<outfit id="708" voc="370" lvl="350">
+<list gender="0-3" lookType="23" name="Saga 9"/>
+</outfit>
+<outfit id="709" voc="370" lvl="400">
+<list gender="0-3" lookType="24" name="Saga 10"/>
+</outfit>
+<outfit id="710" voc="370" lvl="450">
+<list gender="0-3" lookType="25" name="Saga 11"/>
+</outfit>
+<outfit id="711" voc="370" lvl="500">
+<list gender="0-3" lookType="26" name="Saga 12"/>
+</outfit>
+<outfit id="852" voc="370" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1124" name="Anbu"/>
+</outfit>
+<outfit id="853" voc="370" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="833" name="Akatsuki"/>
+</outfit>
+
+<!-- kakuzu -->
+<outfit id="730" voc="430" lvl="1">
+<list gender="0-3" lookType="173" name="Saga 1"/>
+</outfit>
+<outfit id="731" voc="430" lvl="50">
+<list gender="0-3" lookType="174" name="Saga 2"/>
+</outfit>
+<outfit id="732" voc="430" lvl="100">
+<list gender="0-3" lookType="175" name="Saga 3"/>
+</outfit>
+<outfit id="733" voc="430" lvl="150">
+<list gender="0-3" lookType="176" name="Saga 4"/>
+</outfit>
+<outfit id="734" voc="430" lvl="200">
+<list gender="0-3" lookType="177" name="Saga 5"/>
+</outfit>
+<outfit id="735" voc="430" lvl="350">
+<list gender="0-3" lookType="179" name="Saga 6"/>
+</outfit>
+<outfit id="736" voc="430" lvl="425">
+<list gender="0-3" lookType="180" name="Saga 7"/>
+</outfit>
+<outfit id="738" voc="430" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1836" name="Anbu"/>
+</outfit>
+<outfit id="739" voc="430" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1142" name="Akatsuki"/>
+</outfit>
+
+<!-- Konan -->
+<outfit id="750" voc="440" lvl="1">
+<list gender="0-3" lookType="207" name="Saga 1"/>
+</outfit>
+<outfit id="751" voc="440" lvl="25">
+<list gender="0-3" lookType="208" name="Saga 2"/>
+</outfit>
+<outfit id="752" voc="440" lvl="75">
+<list gender="0-3" lookType="202" name="Saga 3"/>
+</outfit>
+<outfit id="753" voc="440" lvl="150">
+<list gender="0-3" lookType="203" name="Saga 4"/>
+</outfit>
+<outfit id="754" voc="440" lvl="200">
+<list gender="0-3" lookType="204" name="Saga 5"/>
+</outfit>
+<outfit id="755" voc="440" lvl="300">
+<list gender="0-3" lookType="205" name="Saga 6"/>
+</outfit>
+<outfit id="756" voc="440" lvl="350">
+<list gender="0-3" lookType="212" name="Saga 7"/>
+</outfit>
+<outfit id="757" voc="440" lvl="375">
+<list gender="0-3" lookType="213" name="Saga 8"/>
+</outfit>
+<outfit id="758" voc="440" lvl="400">
+<list gender="0-3" lookType="206" name="Saga 9"/>
+</outfit>
+<outfit id="759" voc="440" lvl="450">
+<list gender="0-3" lookType="211" name="Saga 10"/>
+</outfit>
+<outfit id="760" voc="440" lvl="500">
+<list gender="0-3" lookType="214" name="Saga 11"/>
+</outfit>
+<outfit id="2293" voc="440" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1166" name="Anbu"/>
+</outfit>
+<outfit id="2294" voc="440" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1167" name="Akatsuki"/>
+</outfit>
+
+<!-- deidara -->
+<outfit id="780" voc="240" lvl="1">
+<list gender="0-3" lookType="1711" name="Saga 1"/>
+</outfit>
+<outfit id="781" voc="240" lvl="50">
+<list gender="0-3" lookType="1712" name="Saga 2"/>
+</outfit>
+<outfit id="782" voc="240" lvl="75">
+<list gender="0-3" lookType="1709" name="Saga 3"/>
+</outfit>
+<outfit id="783" voc="240" lvl="150">
+<list gender="0-3" lookType="1719" name="Saga 4"/>
+</outfit>
+<outfit id="784" voc="240" lvl="200">
+<list gender="0-3" lookType="1720" name="Saga 5"/>
+</outfit>
+<outfit id="785" voc="240" lvl="250">
+<list gender="0-3" lookType="1714" name="Saga 6"/>
+</outfit>
+<outfit id="786" voc="240" lvl="300">
+<list gender="0-3" lookType="1717" name="Saga 7"/>
+</outfit>
+<outfit id="787" voc="240" lvl="350">
+<list gender="0-3" lookType="1710" name="Saga 8"/>
+</outfit>
+<outfit id="788" voc="240" lvl="400">
+<list gender="0-3" lookType="1715" name="Saga 9"/>
+</outfit>
+<outfit id="789" voc="240" lvl="425">
+<list gender="0-3" lookType="1723" name="Saga 10"/>
+</outfit>
+<outfit id="790" voc="240" lvl="450">
+<list gender="0-3" lookType="1716" name="Saga 11"/>
+</outfit>
+<outfit id="793" voc="240" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1404" name="Anbu"/>
+</outfit>
+<outfit id="794" voc="240" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="888" name="Akatsuki"/>
+</outfit>
+
+<!-- hiruzen -->
+<outfit id="1000" voc="420" lvl="1">
+<list gender="0-3" lookType="370" name="Saga 1"/>
+</outfit>
+<outfit id="1001" voc="420" lvl="50">
+<list gender="0-3" lookType="371" name="Saga 2"/>
+</outfit>
+<outfit id="1002" voc="420" lvl="100">
+<list gender="0-3" lookType="372" name="Saga 3"/>
+</outfit>
+<outfit id="1003" voc="420" lvl="150">
+<list gender="0-3" lookType="365" name="Saga 4"/>
+</outfit>
+<outfit id="1004" voc="420" lvl="175">
+<list gender="0-3" lookType="366" name="Saga 5"/>
+</outfit>
+<outfit id="1005" voc="420" lvl="200">
+<list gender="0-3" lookType="367" name="Saga 6"/>
+</outfit>
+<outfit id="1006" voc="420" lvl="250">
+<list gender="0-3" lookType="369" name="Saga 7"/>
+</outfit>
+<outfit id="1007" voc="420" lvl="300">
+<list gender="0-3" lookType="373" name="Saga 8"/>
+</outfit>
+<outfit id="1008" voc="420" lvl="400">
+<list gender="0-3" lookType="368" name="Saga 9"/>
+</outfit>
+<outfit id="1009" voc="420" lvl="450">
+<list gender="0-3" lookType="374" name="Saga 10"/>
+</outfit>
+<outfit id="796" voc="420" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1411" name="Anbu"/>
+</outfit>
+<outfit id="797" voc="420" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1412" name="Akatsuki"/>
+</outfit>
+<!-- skin -->
+<outfit id="3512" voc="420" storageId="8012" storageValue="1">
+<list gender="0-3" lookType="1599" name="Skin"/>
+</outfit>
+
+<!-- mifune -->
+<outfit id="1100" voc="450" lvl="1">
+<list gender="0-3" lookType="1842" name="Saga 1"/>
+</outfit>
+<outfit id="1101" voc="450" lvl="50">
+<list gender="0-3" lookType="1843" name="Saga 2"/>
+</outfit>
+<outfit id="1102" voc="450" lvl="100">
+<list gender="0-3" lookType="1844" name="Saga 3"/>
+</outfit>
+<outfit id="1103" voc="450" lvl="175">
+<list gender="0-3" lookType="1845" name="Saga 4"/>
+</outfit>
+<outfit id="1104" voc="450" lvl="250">
+<list gender="0-3" lookType="1846" name="Saga 5"/>
+</outfit>
+<outfit id="1105" voc="450" lvl="350">
+<list gender="0-3" lookType="1847" name="Saga 6"/>
+</outfit>
+<outfit id="1106" voc="450" lvl="400">
+<list gender="0-3" lookType="1848" name="Saga 7"/>
+</outfit>
+<outfit id="1107" voc="450" lvl="450">
+<list gender="0-3" lookType="1849" name="Saga 8"/>
+</outfit>
+<outfit id="1112" voc="450" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1960" name="Anbu"/>
+</outfit>
+<outfit id="1113" voc="450" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1850" name="Akatsuki"/>
+</outfit>
+
+<!-- nagato -->
+<outfit id="1120" voc="460" lvl="1">
+<list gender="0-3" lookType="255" name="Saga 1"/>
+</outfit>
+<outfit id="1121" voc="460" lvl="50">
+<list gender="0-3" lookType="257" name="Saga 2"/>
+</outfit>
+<outfit id="1122" voc="460" lvl="75">
+<list gender="0-3" lookType="256" name="Saga 3"/>
+</outfit>
+<outfit id="1123" voc="460" lvl="175">
+<list gender="0-3" lookType="258" name="Saga 4"/>
+</outfit>
+<outfit id="1124" voc="460" lvl="200">
+<list gender="0-3" lookType="259" name="Saga 5"/>
+</outfit>
+<outfit id="1125" voc="460" lvl="250">
+<list gender="0-3" lookType="261" name="Saga 6"/>
+</outfit>
+<outfit id="1126" voc="460" lvl="300">
+<list gender="0-3" lookType="260" name="Saga 7"/>
+</outfit>
+<outfit id="1127" voc="460" lvl="350">
+<list gender="0-3" lookType="262" name="Saga 8"/>
+</outfit>
+<outfit id="1128" voc="460" lvl="400">
+<list gender="0-3" lookType="263" name="Saga 9"/>
+</outfit>
+<outfit id="1129" voc="460" lvl="450">
+<list gender="0-3" lookType="265" name="Saga 10"/>
+</outfit>
+<outfit id="1135" voc="460" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1400" name="Anbu"/>
+</outfit>
+<outfit id="1136" voc="460" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="264" name="Akatsuki"/>
+</outfit>
+
+<!-- kabuto -->
+<outfit id="1140" voc="470" lvl="1">
+<list gender="0-3" lookType="154" name="Saga 1"/>
+</outfit>
+<outfit id="1141" voc="470" lvl="50">
+<list gender="0-3" lookType="155" name="Saga 2"/>
+</outfit>
+<outfit id="1142" voc="470" lvl="100">
+<list gender="0-3" lookType="156" name="Saga 3"/>
+</outfit>
+<outfit id="1143" voc="470" lvl="150">
+<list gender="0-3" lookType="157" name="Saga 4"/>
+</outfit>
+<outfit id="1144" voc="470" lvl="250">
+<list gender="0-3" lookType="158" name="Saga 5"/>
+</outfit>
+<outfit id="1145" voc="470" lvl="300">
+<list gender="0-3" lookType="159" name="Saga 6"/>
+</outfit>
+<outfit id="1146" voc="470" lvl="400">
+<list gender="0-3" lookType="160" name="Saga 7"/>
+</outfit>
+<outfit id="1147" voc="470" lvl="450">
+<list gender="0-3" lookType="161" name="Saga 8"/>
+</outfit>
+<outfit id="1148" voc="470" lvl="475">
+<list gender="0-3" lookType="1487" name="Saga 9"/>
+</outfit>
+<outfit id="1149" voc="470" lvl="525">
+<list gender="0-3" lookType="1488" name="Saga 10"/>
+</outfit>
+<outfit id="2135" voc="470" storageId="89745" storageValue="1">
+<list gender="0-3" lookType="1486" name="Anbu"/>
+</outfit>
+<outfit id="2136" voc="470" storageId="89746" storageValue="1">
+<list gender="0-3" lookType="1961" name="Akatsuki"/>
+</outfit>
+
+</outfits>

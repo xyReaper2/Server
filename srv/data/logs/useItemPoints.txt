@@ -1,0 +1,3 @@
+[05/02/2023 19:16:43] Vesgo(221) usou o item(ID: 4) de troca.
+[15/02/2023 21:07:53] Kamon Motherfuck(698) usou o item(ID: 4) de troca.
+[15/02/2023 21:09:17] Kamon Motherfuck(698) usou o item(ID: 5) de troca.

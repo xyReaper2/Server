@@ -1,0 +1,3 @@
+[05/02/2023 19:16:28] Sa Bri Na(239) Criou um item(ID: 4) de troca no valor de 15 Premium Points.
+[15/02/2023 21:06:57] Tobi(116) Criou um item(ID: 4) de troca no valor de 10 Premium Points.
+[15/02/2023 21:08:54] Tobi(116) Criou um item(ID: 5) de troca no valor de 5 Premium Points.

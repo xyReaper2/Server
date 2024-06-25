@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="[bank] kakuzu" script="bank.lua" walkinterval="2000" floorchange="0">
+<health now="150" max="150"/>
+<look type="688"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola,Voce deseja ver seu saldo {balance}, sacar dinheiro {withdraw}."/>
+	</parameters>
+</npc>
